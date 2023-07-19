@@ -1,0 +1,30 @@
+baseURL = "http://RegulatableML.github.io/"
+languageCode = "en-us"
+title = "Regulatable ML Workshop"
+theme = "ananke"
+
+defaultContentLanguage = "en"
+
+
+[menu]
+# Main menu
+[[menu.main]]
+    name       = "Overview"
+    identifier = "menu.overview"
+    url        = "/#overview"
+    weight     = 1
+[[menu.main]]
+    name       = "Call for Papers"
+    identifier = "menu.cfp"
+    url        = "/#call-for-papers"
+    weight     = 2
+[[menu.main]]
+    name       = "Organization"
+    identifier = "menu.organization"
+    url        = "/#organizers"
+    weight     = 3
+
+
+[params]
+	custom_css = ["custom.css"]
+	# body_classes = "calibre bg-near-white"

@@ -23,7 +23,7 @@ The main focus of this workshop is about identifying and bridging the gaps betwe
 
 ## Important Dates
 
-All deadlines are due 23:59 PM in *Anywhere on Earth (AoE)* time zone.
+All deadlines are due 23:59 PM in *GMT* time zone.
 
 - Abstract Deadline: Sep 22, 2023
 - Submission Deadline: Sep 29, 2023

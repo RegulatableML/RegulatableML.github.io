@@ -18,7 +18,8 @@ The main focus of this workshop is about identifying and bridging the gaps betwe
 - Theoretical and/or empirical studies to highlight the operational gaps between existing regulations and SOTA ML research;
 - Evaluation and auditing frameworks for ensuring that ML models are in compliance with regulatory guidelines;
 - Theoretical and/or empirical studies to highlight tensions between different desiderata (e.g., fairness, explainability, privacy) of ML models outlined by various regulatory frameworks;
-- Novel algorithmic frameworks to operationalize the right to explanation, the right to privacy, the right to be forgotten, and to ensure fairness and robustness of ML models.
+- Novel algorithmic frameworks to operationalize the right to explanation, the right to privacy, the right to be forgotten, and to ensure fairness and robustness of ML models;
+- New regulation challenges posed by emerging large generative models and methods to mitigate them.
 
 ## Important Dates
 

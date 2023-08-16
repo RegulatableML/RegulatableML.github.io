@@ -1,19 +1,23 @@
 - name: Daniele Magazzeni
-  affiliation: J.P. Morgan
+  affiliation1: J.P. Morgan
+  affiliation2:
   portrait: /images/daniele.jpeg
   website: https://www.linkedin.com/in/danielemagazzeni/
 
 - name: Danielle Belgrave
-  affiliation: DeepMind
+  affiliation1: DeepMind
+  affiliation2:
   portrait: /images/danielle.png
   website: https://www.daniellebelgrave.com
 
 - name: Kelly Cochran
-  affiliation: FinRegLab
+  affiliation1: FinRegLab
+  affiliation2:
   portrait: /images/kelly.png
   website: https://www.linkedin.com/in/kelly-thompson-cochran-15a714ba/
 
 - name: P-R Stark
-  affiliation: FinRegLab
+  affiliation1: FinRegLab
+  affiliation2:
   portrait: /images/pr.png
   website: https://www.linkedin.com/in/p-r-stark-1a9786142

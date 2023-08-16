@@ -3,7 +3,12 @@
         <div class="person">
             <img src="{{ .portrait }}" alt="{{ .name }}" class="person-portrait">
             <p class="person-name"><a href="{{ .website }}" target="_blank" rel="noopener">{{ .name }}</a></p>
-            <p class="person-affiliation">{{ .affiliation }}</p>
+            <p class="person-affiliation">{{ .affiliation1 }} <br> 
+                {{ if .affiliation2 }}
+                    {{ .affiliation2 }}
+                {{ else }}
+                    &nbsp;
+                {{ end }}</p>
         </div>
     {{ end }}
 </div>

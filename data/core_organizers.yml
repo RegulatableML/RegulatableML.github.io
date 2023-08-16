@@ -1,0 +1,19 @@
+- name: Jiaqi Ma
+  affiliation: UIUC
+  portrait: /images/jiaqi.jpeg
+  website: https://www.jiaqima.com
+
+- name: Chirag Agarwal
+  affiliation: Harvard University
+  portrait: /images/chirag.png
+  website: https://shftan.github.io
+
+- name: Sarah Tan
+  affiliation: Cambia Health
+  portrait: /images/sarah.png
+  website: https://shftan.github.io
+
+- name: Hima Lakkaraju
+  affiliation: Harvard University
+  portrait: /images/hima.jpeg
+  website: http://himalakkaraju.github.io

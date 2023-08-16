@@ -1,0 +1,9 @@
+<div class="ppl-grid">
+    {{ range .Site.Data.core_organizers }}
+        <div class="person">
+            <img src="{{ .portrait }}" alt="{{ .name }}" class="person-portrait">
+            <p class="person-name"><a href="{{ .website }}" target="_blank" rel="noopener">{{ .name }}</a></p>
+            <p class="person-affiliation">{{ .affiliation }}</p>
+        </div>
+    {{ end }}
+</div>

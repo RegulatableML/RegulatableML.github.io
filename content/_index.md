@@ -44,3 +44,11 @@ We welcome both short papers no longer than 4 pages and long papers of up to 9 p
 # Organizers
 
 If you have any questions, please contact us via the following email: [regulatableml@googlegroups.com](mailto:regulatableml@googlegroups.com).
+
+## Core Organizing Team
+
+{{< core-organizers >}}
+
+## Advisory Team
+
+{{< advisory-organizers >}}

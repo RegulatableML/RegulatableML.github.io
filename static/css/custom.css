@@ -1,0 +1,37 @@
+.ppl-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Four columns for a 1x4 grid */
+    gap: 20px; 
+    max-width: 100%; 
+    margin: 0 auto;
+
+    place-items: center; /* This centers the items both horizontally and vertically in each grid cell */
+}
+
+.person-portrait {
+    width: 150px; 
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center; /* This ensures the image is centered */
+}
+
+.person-name {
+    font-size: 1em;        /* Adjust size as needed */
+    font-weight: bold;       /* Makes the text bold */
+    color: #333;            /* Optional: Change to any color you prefer */
+    text-align:center;
+    margin-bottom: 10px;    /* Optional: Add some spacing between name and affiliation */
+}
+
+.person-name a {  /* This targets anchor tags inside .organizer-name elements */
+    text-decoration: none;    /* Removes the underline */
+    color: inherit;           /* Ensures the link inherits the same color as the text it wraps */
+}
+
+.person-affiliation {
+    font-size: 0.9em;        /* Adjust size as needed */
+    font-weight: normal;     /* Ensures the text isn't bold */
+    color: #777;            /* Optional: A lighter shade for subtlety */
+    text-align: center;     /* Ensures the text is centered, especially useful if it breaks into two lines */
+}

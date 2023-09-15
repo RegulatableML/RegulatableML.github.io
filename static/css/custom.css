@@ -35,3 +35,83 @@
     color: #777;            /* Optional: A lighter shade for subtlety */
     text-align: center;     /* Ensures the text is centered, especially useful if it breaks into two lines */
 }
+
+
+.ppl-list {
+    margin: 0;
+    padding: 20px;
+}
+
+.person-container {
+    display: flex;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+}
+
+.person-photo img {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.person-details {
+    flex: 1;
+    padding-left: 40px;
+}
+
+.person-details h1 {
+    margin: 0 0 10px;
+    font-size: 24px;
+}
+
+.person-details a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.person-details p {
+    margin: 0 0 10px;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.buttons button {
+    margin-right: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    
+    /* New styles to make the buttons prettier */
+    background-color: #008CBA; /* Blue background color */
+    border: none; /* Remove border */
+    color: white; /* White text color */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Slight box shadow */
+    
+    /* Add transition for a smooth hover effect */
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.buttons button:hover {
+    background-color: #005f73; /* Darker blue on hover */
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2); /* Increased box shadow on hover */
+}
+
+
+.popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid #000;
+    padding: 20px;
+    background-color: #fff;
+    max-width: 400px;
+    max-height: 400px;
+    overflow-y: auto;
+}

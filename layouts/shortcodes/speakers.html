@@ -1,0 +1,25 @@
+<div class="ppl-list">
+    {{ range .Site.Data.speakers }}
+        <div class="person-container">
+            <div class="person-portrait">
+                <img src="{{ .portrait }}" alt="Portrait">
+            </div>
+            <div class="person-details">
+                <h1><a href="{{ .website }}" target="_blank" rel="noopener">{{ .name }}</a></h1>
+                <p><i>{{ .title }}</i></p>
+                <p><b>{{ .affiliation }}</b></p>
+                <p>{{ .talk_title }}</p>
+                <div class="buttons">
+                    <button onclick="showAbstract({{ .index }})">Abstract</button>
+                    <button onclick="showBio({{ .index }})">Bio</button>
+                </div>
+                <div id="abstract-popup-{{ .index }}" class="popup">
+                    {{ .abstract }}
+                </div>
+                <div id="bio-popup-{{ .index }}" class="popup">
+                    {{ .bio }}
+                </div>
+            </div>
+        </div>
+    {{ end }}
+</div>

@@ -1,0 +1,50 @@
+- index: 1
+  name: Rayid Ghani
+  affiliation: Carnegie Mellon University
+  portrait: /images/rayid.png
+  title: Distinguished Career Professor
+  website: http://www.rayidghani.com
+  bio: TBA
+  talk_title: TBA
+  abstract: TBA
+
+- index: 2
+  name: Tatsunori Hashimoto
+  affiliation: Stanford University
+  portrait: /images/tatsunori.jpg
+  title: Assistant Professor
+  website: https://thashim.github.io
+  bio: TBA
+  talk_title: TBA
+  abstract: TBA
+
+- index: 3
+  name: Jon Kleinberg
+  affiliation: Cornell University
+  portrait: /images/jon.jpeg
+  title: Tisch University Professor
+  website: https://www.cs.cornell.edu/home/kleinber/
+  bio: TBA
+  talk_title: TBA
+  abstract: TBA
+
+- index: 4
+  name: Margaret Mitchell
+  affiliation: Hugging Face
+  portrait: /images/margaret.jpg
+  title: Research Scientist
+  website: https://www.m-mitchell.com
+  bio: TBA
+  talk_title: TBA
+  abstract: TBA
+
+- index: 5
+  name: Elham Tabassi
+  affiliation: National Institute of Standards and Technology (NIST)
+  portrait: /images/elham.png
+  title: Associate Director for Emerging Technologies
+  website: https://www.m-mitchell.com
+  bio: TBA
+  talk_title: TBA
+  abstract: TBA
+

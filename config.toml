@@ -16,13 +16,18 @@ defaultContentLanguage = "en"
 [[menu.main]]
     name       = "Call for Papers"
     identifier = "menu.cfp"
-    url        = "/#call-for-papers"
+    url        = "/cfp"
     weight     = 2
+[[menu.main]]
+    name       = "Speakers and Panelists"
+    identifier = "menu.sp"
+    url        = "/#confirmed-speakers-and-panelists"
+    weight     = 3
 [[menu.main]]
     name       = "Organization"
     identifier = "menu.organization"
     url        = "/#organizers"
-    weight     = 3
+    weight     = 4
 
 
 [params]

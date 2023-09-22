@@ -17,8 +17,8 @@ The main focus of this workshop is about identifying and bridging the gaps betwe
 
 All deadlines are due 23:59 PM in *GMT* time zone.
 
-- Abstract Deadline: Sep 22, 2023
-- Submission Deadline: Sep 29, 2023
+- Abstract Deadline: ~~Sep 22~~ Sep 25, 2023
+- Submission Deadline: ~~Sep 29~~ Oct 2, 2023
 - Acceptance Notification: Oct 27, 2023
 
 ## Submission Instruction

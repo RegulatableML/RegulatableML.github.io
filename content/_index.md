@@ -22,14 +22,14 @@ Please check out our [Call for Papers](/cfp/).
 
 If you have any questions, please contact us via the following email: [regulatableml@googlegroups.com](mailto:regulatableml@googlegroups.com).
 
-## Core Organizers
+## Core Organizing Team
 
 {{< core-organizers >}}
 
-## Student Organizers
+### Student Organizers
 
 {{< student-organizers >}}
 
-## Advisory Members
+## Advisory Team
 
 {{< advisory-organizers >}}

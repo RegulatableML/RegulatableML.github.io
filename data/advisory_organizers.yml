@@ -10,11 +10,23 @@
   portrait: /images/kelly.png
   website: https://www.linkedin.com/in/kelly-thompson-cochran-15a714ba/
 
+- name: Finale Doshi-Velez
+  affiliation1: Harvard University
+  affiliation2:
+  portrait: /images/finale.jpeg
+  website: https://finale.seas.harvard.edu/
+
 - name: Daniele Magazzeni
   affiliation1: J.P. Morgan
   affiliation2:
   portrait: /images/daniele.jpeg
   website: https://www.linkedin.com/in/danielemagazzeni/
+
+- name: Weiwei Pan
+  affiliation1: Harvard University
+  affiliation2:
+  portrait: /images/weiwei.png
+  website: https://onefishy.github.io/
 
 - name: P-R Stark
   affiliation1: FinRegLab

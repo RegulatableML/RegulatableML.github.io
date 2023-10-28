@@ -115,3 +115,30 @@
     max-height: 400px;
     overflow-y: auto;
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+table, th, td {
+    padding: 8px;
+}
+
+td {
+    border-right: 1px solid #e0e0e0; /* Light gray dividing line */
+}
+
+td:last-child {
+    border-right: none;
+}
+
+th {
+    background-color: #f2f2f2;
+    text-align: left;
+}
+
+thead {
+    border-bottom: 2px solid #e0e0e0; /* Adjust as needed */
+}

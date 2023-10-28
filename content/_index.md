@@ -33,3 +33,7 @@ If you have any questions, please contact us via the following email: [regulatab
 ## Advisory Team
 
 {{< advisory-organizers >}}
+
+## Reviewers
+
+{{< reviewers >}}

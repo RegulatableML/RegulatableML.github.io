@@ -37,3 +37,9 @@ If you have any questions, please contact us via the following email: [regulatab
 ## Reviewers
 
 {{< reviewers >}}
+
+## Format
+
+Please use the RegML @ NeurIPS 2023 template.
+- [neurips_2023.tex](/template/neurips_2023.tex)
+- [neurips_2023.sty](/template/neurips_2023.sty)

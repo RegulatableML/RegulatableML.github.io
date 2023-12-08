@@ -1,3 +1,4 @@
+<script src="js/script.js"></script>
 <div class="ppl-list">
     {{ range .Site.Data.speakers_panelists }}
         <div class="person-container">
@@ -8,12 +9,13 @@
                 <h1><a href="{{ .website }}" target="_blank" rel="noopener">{{ .name }}</a></h1>
                 <p><i>{{ .title }}</i></p>
                 <p>{{ .affiliation }}</p>
-                <div class="buttons">
+                <p>Bio: {{ .bio }}</p>
+                <!-- <div class="buttons">
                     <button onclick="showBio({{ .index }})">Bio</button>
                 </div>
                 <div id="bio-popup-{{ .index }}" class="popup">
                     {{ .bio }}
-                </div>
+                </div> -->
             </div>
         </div>
     {{ end }}

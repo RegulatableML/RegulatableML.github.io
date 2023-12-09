@@ -18,6 +18,12 @@ Please check out our [Call for Papers](/cfp/).
 
 {{< speakers-panelists >}}
 
+# Keynote Talk
+
+{{< keynote-talk >}}
+
+# Panel Discussion
+
 # Organizers
 
 If you have any questions, please contact us via the following email: [regulatableml@googlegroups.com](mailto:regulatableml@googlegroups.com).

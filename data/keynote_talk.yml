@@ -1,0 +1,35 @@
+- index: 1
+  name: Rayid Ghani
+  bio: TBA
+  talk_title: TBA
+  abstract: TBA
+
+- index: 2
+  name: Sandra Wachter
+  talk_title: "Regulating Code: What the European Union has in stock for the governance of Artificial Intelligence, foundation models, and generative AI"
+  abstract: It is often said that while the US innovates Europe regulates. But is this actually true? AI, machine learning and generative AI pose new risks and opportunities to our society and many hope or fear that Europe will have a heavy regulatory hand. However, this talk will demystify this assumption and show how EU-laws often under- AND overregulate at the same time. I will explore the actual obligations, shed light on their loopholes, expose shortfalls and explain how to fix them.  
+
+- index: 3
+  name: Jon Kleinberg
+  talk_title: TBA
+  abstract: TBA
+
+- index: 4
+  name: Elham Tabassi
+  talk_title: TBA
+  abstract: TBA
+
+- index: 5
+  name: Margaret Mitchell, Yacine Jernite
+  talk_title: TBA
+  abstract: TBA
+
+- index: 6
+  name: Tatsunori Hashimoto
+  talk_title: Connecting provable guarantees and regulation of LLMs.
+  abstract: The complexity and black-box nature of LLMs makes it difficult to provide meaningful guarantees, which in turn complicates efforts to regulate and audit LLMs. In this talk, I will discuss how statistical guarantees on various properties of LLMs such as privacy (via differential privacy) and provenance (via watermarking or membership inference) provide powerful primitives for thinking about important regulatory issues such as copyright. At the same time, implementing and deploying these primitives can be challenging and I will discuss pitfalls and open problems in the interaction of various statistical guarantees and LLM deployment environments.
+
+
+
+
+

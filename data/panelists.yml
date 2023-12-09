@@ -1,36 +1,42 @@
 - name: Rayid Ghani
   affiliation1: Carnegie Mellon
   affiliation2: University
+  affiliation3: 
   portrait: /images/rayid.png
   website: http://www.rayidghani.com
 
 - name: Tatsunori Hashimoto
   affiliation1: Stanford University
   affiliation2: 
+  affiliation3: 
   portrait: /images/tatsunori.jpg
   website: https://thashim.github.io
 
 - name: Jon Kleinberg
   affiliation1: Cornell University
   affiliation2:
+  affiliation3: 
   portrait: /images/jon.jpeg
   website: https://www.cs.cornell.edu/home/kleinber/
 
 - name: Margaret Mitchell
   affiliation1: Hugging Face
   affiliation2: 
+  affiliation3: 
   portrait: /images/margaret.jpg
   website: https://www.m-mitchell.com
 
 - name: Deborah Raji
   affiliation1: Mozilla Foundation
-  affiliation2: University of California, Berkeley
+  affiliation2: University of 
+  affiliation3: California Berkeley
   portrait: /images/raji.jpg
   website: https://scholar.google.com/citations?hl=en&user=pzw1-J4AAAAJ
 
 - name: Elham Tabassi
-  affiliation1: National Institute of Standards and Technology (NIST)
-  affiliation2: 
+  affiliation1: National Institute 
+  affiliation2: of Standards and 
+  affiliation3: Technology (NIST)
   portrait: /images/elham.png
   website: https://www.nist.gov/people/elham-tabassi
 

@@ -1,7 +1,7 @@
 <div class="ppl-grid">
     {{ range .Site.Data.student_organizers }}
         <div class="person">
-            <img src="{{ .portrait }}" alt="{{ .name }}" class="person-portrait">
+            <img src="{{ .portrait }}" alt="{{ .name }}" class="person-portrait-row">
             <p class="person-name"><a href="{{ .website }}" target="_blank" rel="noopener">{{ .name }}</a></p>
             <p class="person-affiliation">{{ .affiliation1 }} <br> 
                 {{ if .affiliation2 }}

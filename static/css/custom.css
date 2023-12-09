@@ -17,30 +17,19 @@
     margin-left: 40px;
 }
 
+.person-portrait-row {
+    width: 150px; 
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center; /* This ensures the image is centered */
+}
+
 .keynote-talk {
     display: flex;
     margin-bottom: 20px;
     border-bottom: 1px solid #ccc;
     padding-bottom: 20px;
-}
-
-.talk-details {
-    flex: 1;
-    /* padding-left: 40px; */
-}
-
-.talk-details h1 {
-    margin: 0 0 10px;
-    font-size: 24px;
-}
-
-.talk-details a {
-    text-decoration: none;
-    color: inherit;
-}
-
-.talk-details p {
-    margin: 0 0 10px;
 }
 
 

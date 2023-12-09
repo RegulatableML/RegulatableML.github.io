@@ -14,6 +14,7 @@
     border-radius: 50%;
     object-fit: cover;
     object-position: center; /* This ensures the image is centered */
+    margin-left: 40px;
 }
 
 .keynote-talk {
@@ -72,8 +73,22 @@
 .person-container {
     display: flex;
     margin-bottom: 20px;
-    border-bottom: 1px solid #ccc;
+    /* border-bottom: 1px solid #ccc; */
     padding-bottom: 20px;
+}
+
+.talk-details {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    /* border-bottom: 1px solid #ccc; */
+    /* padding-bottom: 20px; */
+}
+
+
+.person-border{
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
 }
 
 .person-photo img {

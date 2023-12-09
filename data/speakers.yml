@@ -5,7 +5,7 @@
   title: Distinguished Career Professor
   website: http://www.rayidghani.com
   bio: TBA
-  talk_title: TBA
+  talk_title: "Talk title: TBA"
   abstract: TBA
 
 - index: 2
@@ -25,7 +25,7 @@
   title: Tisch University Professor
   website: https://www.cs.cornell.edu/home/kleinber/
   bio: TBA
-  talk_title: TBA
+  talk_title: "Talk title: TBA"
   abstract: TBA
 
 - index: 4
@@ -35,7 +35,7 @@
   title: Associate Director for Emerging Technologies
   website: https://www.nist.gov/people/elham-tabassi
   bio: TBA
-  talk_title: TBA
+  talk_title: "Talk title: TBA"
   abstract: TBA
 
 - index: 5
@@ -44,8 +44,14 @@
   portrait: /images/margaret.jpg
   title: Research Scientist
   website: https://www.m-mitchell.com
+  name2: Yacine Jernite
+  affiliation2: Hugging Face
+  portrait2: /images/jernite.jpg
+  title2: ML & Society lead
+  website2: https://yjernite.github.io/
   bio: TBA
-  talk_title: TBA
+  bio2: TBA
+  talk_title: "Talk title: TBA"
   abstract: TBA
 
 - index: 6

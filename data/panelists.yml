@@ -10,12 +10,6 @@
   portrait: /images/tatsunori.jpg
   website: https://thashim.github.io
 
-- name: Yacine Jernite
-  affiliation1: Hugging Face
-  affiliation2:
-  portrait: /images/jernite.jpg
-  website: https://yjernite.github.io/
-
 - name: Jon Kleinberg
   affiliation1: Cornell University
   affiliation2:

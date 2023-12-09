@@ -7,8 +7,8 @@ function showAbstract(index) {
     }
 }
 
-function showBio(index) {
-    var bioElement = document.getElementById('bio-popup-' + index);
+function showBio(index, offset=0) {
+    var bioElement = document.getElementById('bio-popup-' + index + "-" + offset);
     if (bioElement.style.display === 'block') {
         bioElement.style.display = 'none';
     } else {

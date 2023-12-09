@@ -2,6 +2,20 @@
 
 <div class="ppl-list">
     {{ range .Site.Data.speakers }}
+    <div class="person-border">
+        <div class="person-container">
+            <div class="person-details">
+                <h1>{{ .talk_title }}</h1>
+                <div class="buttons">
+                    <button onclick="showAbstract({{ .index }})">Abstract</button>
+                </div>
+                <p></p>
+                <div id="abstract-popup-{{ .index }}" style="display:none;">
+                    <strong>Abstract:</strong> {{ .abstract }}
+                </div>
+                <p></p>
+            </div>
+        </div>
         <div class="person-container">
             <div class="person-portrait">
                 <img src="{{ .portrait }}" alt="Portrait">
@@ -10,18 +24,37 @@
                 <h1><a href="{{ .website }}" target="_blank" rel="noopener">{{ .name }}</a></h1>
                 <p><i>{{ .title }}</i></p>
                 <p><b>{{ .affiliation }}</b></p>
-                <p><strong>Talk Title:</strong> {{ .talk_title }}</p>
                 <div class="buttons">
-                    <button onclick="showAbstract({{ .index }})">Abstract</button>
                     <button onclick="showBio({{ .index }})">Bio</button>
                 </div>
-                <div id="abstract-popup-{{ .index }}" style="display:none;">
-                    <strong>Abstract:</strong> {{ .abstract }}
-                </div>
-                <div id="bio-popup-{{ .index }}" style="display:none;">
+                <p></p>
+                <div id="bio-popup-{{ .index }}-0" style="display:none;">
                     <strong>Bio:</strong> {{ .bio }}
                 </div>
+                <p></p>
             </div>
         </div>
+        {{ if .name2 }}
+        <div class="person-container">
+            <div class="person-portrait">
+                <img src="{{ .portrait2 }}" alt="Portrait">
+            </div>
+            <div class="person-details">
+                <h1><a href="{{ .website }}" target="_blank" rel="noopener">{{ .name }}</a></h1>
+            
+            <p><i>{{ .title2 }}</i></p>
+            <p><b>{{ .affiliation2 }}</b></p>
+            <div class="buttons">
+                <button onclick="showBio({{ .index }}, 1)">Bio</button>
+            </div>
+            <p></p>
+            <div id="bio-popup-{{ .index }}-1" style="display:none;">
+                <strong>Bio:</strong> {{ .bio2 }}
+            </div>
+            <p></p>
+        </div>
+        {{ end }}
+        </div>
+    </div>
     {{ end }}
 </div>

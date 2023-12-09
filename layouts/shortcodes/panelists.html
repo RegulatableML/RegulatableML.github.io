@@ -1,20 +1,14 @@
-<div class="ppl-list">
+<div class="ppl-grid">
     {{ range .Site.Data.panelists }}
-        <div class="person-container">
-            <div class="person-portrait">
-                <img src="{{ .portrait }}" alt="Portrait">
-            </div>
-            <div class="person-details">
-                <h1><a href="{{ .website }}" target="_blank" rel="noopener">{{ .name }}</a></h1>
-                <p><i>{{ .title }}</i></p>
-                <p>{{ .affiliation }}</p>
-                <div class="buttons">
-                    <button onclick="showBio({{ .index }})">Bio</button>
-                </div>
-                <div id="bio-popup-{{ .index }}" class="popup">
-                    {{ .bio }}
-                </div>
-            </div>
+        <div class="person">
+            <img src="{{ .portrait }}" alt="{{ .name }}" class="person-portrait">
+            <p class="person-name"><a href="{{ .website }}" target="_blank" rel="noopener">{{ .name }}</a></p>
+            <p class="person-affiliation">{{ .affiliation1 }} <br> 
+                {{ if .affiliation2 }}
+                    {{ .affiliation2 }}
+                {{ else }}
+                    &nbsp;
+                {{ end }}</p>
         </div>
     {{ end }}
 </div>

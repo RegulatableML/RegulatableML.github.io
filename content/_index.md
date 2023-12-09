@@ -14,19 +14,13 @@ This workshop aims to provide a platform for: i) discussing various algorithmic,
 
 Please check out our [Call for Papers](/cfp/).
 
-# Keynotes and Panel Discussion
+## Keynote Talks
 
-## Confirmed Speakers and Panelists
-
-{{< speakers-panelists >}}
-
-## Keynote Talk
-
-{{< keynote-talk >}}
+{{< speakers >}}
 
 ## Panel Discussion
 
-Panelists: Rayid Ghani, Tatsunori Hashimoto, Deborah Raji, Elham Tabassi.
+{{< panelists >}}
 
 # Organizers
 

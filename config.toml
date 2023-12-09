@@ -19,9 +19,14 @@ defaultContentLanguage = "en"
     url        = "/cfp"
     weight     = 2
 [[menu.main]]
-    name       = "Speakers and Panelists"
-    identifier = "menu.sp"
-    url        = "/#confirmed-speakers-and-panelists"
+    name       = "Keynote Talks"
+    identifier = "menu.kt"
+    url        = "/#keynote-talks"
+    weight     = 3
+[[menu.main]]
+    name       = "Panel Discussion"
+    identifier = "menu.pd"
+    url        = "/#panel-discussion"
     weight     = 3
 [[menu.main]]
     name       = "Organization"

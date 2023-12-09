@@ -1,0 +1,60 @@
+- index: 1
+  name: Rayid Ghani
+  affiliation: Carnegie Mellon University
+  portrait: /images/rayid.png
+  title: Distinguished Career Professor
+  website: http://www.rayidghani.com
+  bio: TBA
+  talk_title: TBA
+  abstract: TBA
+
+- index: 2
+  name: Sandra Wachter
+  affiliation: University of Oxford
+  portrait: /images/sandra.png
+  title: Professor
+  website: https://www.oii.ox.ac.uk/people/profiles/sandra-wachter/
+  bio: TBA
+  talk_title: "Regulating Code: What the European Union has in stock for the governance of Artificial Intelligence, foundation models, and generative AI"
+  abstract: It is often said that while the US innovates Europe regulates. But is this actually true? AI, machine learning and generative AI pose new risks and opportunities to our society and many hope or fear that Europe will have a heavy regulatory hand. However, this talk will demystify this assumption and show how EU-laws often under- AND overregulate at the same time. I will explore the actual obligations, shed light on their loopholes, expose shortfalls and explain how to fix them.
+
+- index: 3
+  name: Jon Kleinberg
+  affiliation: Cornell University
+  portrait: /images/jon.jpeg
+  title: Tisch University Professor
+  website: https://www.cs.cornell.edu/home/kleinber/
+  bio: TBA
+  talk_title: TBA
+  abstract: TBA
+
+- index: 4
+  name: Elham Tabassi
+  affiliation: National Institute of Standards and Technology (NIST)
+  portrait: /images/elham.png
+  title: Associate Director for Emerging Technologies
+  website: https://www.nist.gov/people/elham-tabassi
+  bio: TBA
+  talk_title: TBA
+  abstract: TBA
+
+- index: 5
+  name: Margaret Mitchell
+  affiliation: Hugging Face
+  portrait: /images/margaret.jpg
+  title: Research Scientist
+  website: https://www.m-mitchell.com
+  bio: TBA
+  talk_title: TBA
+  abstract: TBA
+
+- index: 6
+  name: Tatsunori Hashimoto
+  affiliation: Stanford University
+  portrait: /images/tatsunori.jpg
+  title: Assistant Professor
+  website: https://thashim.github.io
+  talk_title: Connecting provable guarantees and regulation of LLMs.
+  bio: Tatsunori Hashimoto is an Assistant Professor in the Computer Science Department at Stanford University. He is a member of the statistical machine learning and natural language processing groups at Stanford, and his research uses tools from statistics to make machine learning systems more robust and trustworthy — especially in complex systems such as large language models. He is a Kavli fellow, a Sony and Amazon research award winner, and his work has been recognized with best paper awards at ICML and CHI.
+  abstract: The complexity and black-box nature of LLMs makes it difficult to provide meaningful guarantees, which in turn complicates efforts to regulate and audit LLMs. In this talk, I will discuss how statistical guarantees on various properties of LLMs such as privacy (via differential privacy) and provenance (via watermarking or membership inference) provide powerful primitives for thinking about important regulatory issues such as copyright. At the same time, implementing and deploying these primitives can be challenging and I will discuss pitfalls and open problems in the interaction of various statistical guarantees and LLM deployment environments.
+

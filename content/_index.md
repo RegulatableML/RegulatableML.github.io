@@ -22,6 +22,10 @@ Please check out our [Call for Papers](/cfp/).
 
 {{< panelists >}}
 
+# Schedule
+
+{{< schedule >}}
+
 # Organizers
 
 If you have any questions, please contact us via the following email: [regulatableml@googlegroups.com](mailto:regulatableml@googlegroups.com).

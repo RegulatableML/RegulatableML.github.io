@@ -4,7 +4,7 @@
   portrait: /images/rayid.png
   title: Distinguished Career Professor
   website: http://www.rayidghani.com
-  bio: TBA
+  bio: Rayid is a reformed computer scientist and wanna-be social scientist, but mostly just wants to increase the use of large-scale AI/Machine Learning/Data Science in solving large public policy and social challenges in a fair and equitable manner. Among other areas, Rayid works with governments and non-profits in policy areas such as health, criminal justice, education, public safety, economic development, and urban infrastructure. Rayid is also passionate about teaching practical data science and started the Data Science for Social Good Fellowship that trains computer scientists, statisticians, and social scientists from around the world to work on data science problems with social impact. Before joining Carnegie Mellon University, Rayid was the Founding Director of the Center for Data Science & Public Policy, Research Associate Professor in Computer Science, and a Senior Fellow at the Harris School of Public Policy at the University of Chicago. Previously, Rayid was the Chief Scientist of the Obama 2012 Election Campaign where he focused on data, analytics, and technology to target and influence voters, donors, and volunteers. In his ample free time, Rayid obsesses over everything related to coffee and works with non-profits to help them with their data, analytics and digital efforts and strategy.
   talk_title: "Talk title: TBA"
   abstract: TBA
 
@@ -14,7 +14,7 @@
   portrait: /images/sandra.png
   title: Professor
   website: https://www.oii.ox.ac.uk/people/profiles/sandra-wachter/
-  bio: TBA
+  bio: Professor Sandra Wachter is Professor of Technology and Regulation at the Oxford Internet Institute at the University of Oxford where she researches the legal and ethical implications of AI, Big Data, and robotics as well as Internet and platform regulation. Her current research focuses on profiling, inferential analytics, explainable AI, algorithmic bias, diversity, and fairness, as well as governmental surveillance, predictive policing, human rights online, and health tech and medical law. At the OII, Professor Sandra Wachter leads and coordinates the Governance of Emerging Technologies (GET) Research Programme that investigates legal, ethical, and technical aspects of AI, machine learning, and other emerging technologies. Professor Wachter is also an affiliate and member at numerous institutions, such as  the Berkman Klein Center for Internet & Society at Harvard University, World Economic Forum’s Global Futures Council on Values, Ethics and Innovation, the UNESCO, the European Commission’s Expert Group on Autonomous Cars, the Law Committee of the IEEE, the World Bank’s Task Force on Access to Justice and Technology, the United Kingdom Police Ethics Guidance Group, the British Standards Institution, the Law Faculty at Oxford, the Bonavero Institute of Human Rights, the Oxford Martin School and Oxford University Press. Professor Wachter also serves as a policy advisor for governments, companies, and NGO’s around the world on regulatory and ethical questions concerning emerging technologies.
   talk_title: "Regulating Code: What the European Union has in stock for the governance of Artificial Intelligence, foundation models, and generative AI"
   abstract: It is often said that while the US innovates Europe regulates. But is this actually true? AI, machine learning and generative AI pose new risks and opportunities to our society and many hope or fear that Europe will have a heavy regulatory hand. However, this talk will demystify this assumption and show how EU-laws often under- AND overregulate at the same time. I will explore the actual obligations, shed light on their loopholes, expose shortfalls and explain how to fix them.
 
@@ -24,7 +24,7 @@
   portrait: /images/jon.jpeg
   title: Tisch University Professor
   website: https://www.cs.cornell.edu/home/kleinber/
-  bio: TBA
+  bio: Jon Kleinberg is the Tisch University Professor in the Computer Science Department at Cornell University. His research focuses on issues at the interface of networks and information, with an emphasis on the social and information networks that underpin the Web and other on-line media. He is a member of the National Academy of Sciences, the National Academy of Engineering, and the American Academy of Arts and Sciences, and serves on the Computer and Information Science and Engineering (CISE) Advisory Committee of the National Science Foundation, and the Computer Science and Telecommunications Board (CSTB) of the National Research Council. He is the recipient of MacArthur, Packard, and Sloan Foundation Fellowships, as well as awards including the Nevanlinna Prize, the Lanchester Prize, and the ACM-Infosys Foundation Award in the Computing Sciences.
   talk_title: "Talk title: TBA"
   abstract: TBA
 
@@ -34,7 +34,7 @@
   portrait: /images/elham.png
   title: Associate Director for Emerging Technologies
   website: https://www.nist.gov/people/elham-tabassi
-  bio: TBA
+  bio: "Elham Tabassi is a Senior Research Scientist at the National Institute of Standards and Technology (NIST) and the Associate Director for Emerging Technologies in the Information Technology Laboratory (ITL). She also leads NIST’s Trustworthy and Responsible AI program that aims to cultivate trust in the design, development, and use of AI technologies. As the ITL’s Associate Director for Emerging Technologies, Elham assists NIST leadership and management at all levels in determining future strategic direction for research, development, standards, testing and evaluation in the areas of emerging technologies such as artificial intelligence. She also coordinates interaction related to artificial intelligence with the U.S. research community, U.S. industrial community, international standards community, and other federal agencies; and provides leadership within NIST in the use of AI to solve scientific and engineering problems arising in measurement science and related use-inspired applications of AI. \n Elham has been working on various machine learning and computer vision research projects with applications in biometrics evaluation and standards since she joined NIST in 1999. She is a member of the National AI Resource Research Task Force, vice-chair of OECD working party on AI Governance, Associate Editor of IEEE Transaction on Information Forensics and Security, and a fellow of Washington Academy of Sciences."
   talk_title: "Talk title: TBA"
   abstract: TBA
 
@@ -47,12 +47,12 @@
   name2: Yacine Jernite
   affiliation2: Hugging Face
   portrait2: /images/jernite.jpg
-  title2: Machine Learning Researcher
+  title2: ML and Society Lead
   website2: https://yjernite.github.io/
-  bio: TBA
+  bio: Margaret Mitchell is a researcher focused on the ins and outs of machine learning and ethics-informed AI development in tech. She has published around 100 papers on natural language generation, assistive technology, computer vision, and AI ethics, and holds multiple patents in the areas of conversation generation and sentiment classification. She has recently received recognition as one of Time's Most Influential People of 2023. She currently works at Hugging Face as Chief Ethics Scientist, driving forward work in the ML development ecosystem, ML data governance, AI evaluation, and AI ethics. She previously worked at Google AI as a Staff Research Scientist, where she founded and co-led Google's Ethical AI group, focused on foundational AI ethics research and operationalizing AI ethics Google-internally. Before joining Google, she was a researcher at Microsoft Research, focused on computer vision-to-language generation; and was a postdoc at Johns Hopkins, focused on Bayesian modeling and information extraction. She holds a PhD in Computer Science from the University of Aberdeen and a Master's in computational linguistics from the University of Washington. While earning her degrees, she also worked from 2005-2012 on machine learning, neurological disorders, and assistive technology at Oregon Health and Science University. She has spearheaded a number of workshops and initiatives at the intersections of diversity, inclusion, computer science, and ethics. Her work has received awards from Secretary of Defense Ash Carter and the American Foundation for the Blind, and has been implemented by multiple technology companies. She likes gardening, dogs, and cats. 
   bio2: TBA
-  talk_title: "Talk title: TBA"
-  abstract: TBA
+  talk_title: "Regulating ML: Rights, Transparency, and Agency"
+  abstract: As ML is becoming ubiquitous and creating new and impressive artifacts, regulatory agencies around the world are grappling with the unique properties of this new category of technology. In order to properly address these challenges, we argue for an approach centered on the dual pillars of rights and transparency to ensure that the technology is subject to the appropriate democratic governance. We outline some of the recent developments and proposals made by policymakers in this direction, how they connect to AI, and provide both organizational and technical tools to support well-informed regulation aligned with technology development now and in the future.
 
 - index: 6
   name: Tatsunori Hashimoto

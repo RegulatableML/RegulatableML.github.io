@@ -1,0 +1,30 @@
+headers:
+  - Time
+  - Activity
+
+rows:
+  - ["08:55-09:00", "Opening"]
+  - ["09:00-09:30", "Keynotes 1 [Rayid Ghani]"]
+  - ["09:30-10:00", "Keynote 2 [Sandra Wachter]  "]
+  - ["10:00-10:15", "Coffee Break"]
+  - ["10:15-10:55", "Oral Presentation 1: Can copyright be reduced to privacy"]
+  - [" ", "Oral Presentation 2: Merging (EU)-Regulation and Model Reporting"]
+  - [" ", "Oral Presentation 3: Necessity of Processing Sensitive Data for Bias Detection and Monitoring: A Techno-Legal Exploration"]
+  - ["10:55-11:25", "Keynote 3 [Jon Kleinberg]"]
+  - ["11:25-12:20", "Poster Session"]
+  - ["12:20-13:00", "Lunch Break"]
+  - ["13:00-13:35", "Oral Presentation 4: Towards a Post-Market Monitoring Framework for Machine Learning-based Medical Devices: A case study"]
+  - [" ", "Oral Presentation 5: SILO Language Models: Isolating Legal Risk In a Nonparametric Datastore"]
+  - [" ", "Oral Presentation 6: Detecting Pretraining Data from Large Language Models"]
+  - ["13:35-14:05", "Keynote 4 [Elham Tabassi]"]
+  - ["14:05-14:35", "Keynote 5 [Meg Mitchell and Yacine Jernite]  "]
+  - ["14:35-15:00", "Oral Presentation 7: Learning from Label Proportions: Bootstrapping Supervised Learners via Belief Propagation"]
+  - [" ", "Oral Presentation 8: Who Leaked the Model? Tracking IP Infringers in Accountable Federated Learning"]
+  - ["15:00-15:15", "Coffee Break"]
+  - ["15:15-15:45", "Keynote 6 [Tatsunori Hashimoto]  "]
+  - ["15:45-16:40 ", "Panel Discussion"]
+  - ["16:40-17:20", "Oral presentation 9: Can LLM-Generated Misinformation Be Detected?"]
+  - [" ", "Oral Presentation 10: Biological design tools illustrate distinct challenges in regulating dual-use AI"]
+  - [" ", "Oral Presentation 11: Learning to Walk Impartially on the Pareto Frontier of Fairness, Privacy, and Utility"]
+  - ["17:20-17:30", "Closing Remarks"]
+  

@@ -14,11 +14,11 @@ This workshop aims to provide a platform for: i) discussing various algorithmic,
 
 Please check out our [Call for Papers](/cfp/).
 
-## Keynote Talks
+# Keynote Talks
 
 {{< speakers >}}
 
-## Panel Discussion
+# Panel Discussion
 
 {{< panelists >}}
 

@@ -23,7 +23,7 @@ Please check out our [Call for Papers](/cfp/).
 {{< panelists >}}
 
 # Schedule
-
+Date: Dec 16, 2023 
 {{< schedule >}}
 
 # Organizers

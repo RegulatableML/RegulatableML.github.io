@@ -23,7 +23,7 @@ Please check out our [Call for Papers](/cfp/).
 {{< panelists >}}
 
 # Schedule
-Date: Dec 16, 2023 
+Dec 16, 2023; New Orleans Convention Center (Room 215 - 216)
 {{< schedule >}}
 
 # Organizers

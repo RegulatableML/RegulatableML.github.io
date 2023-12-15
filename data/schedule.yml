@@ -4,7 +4,7 @@ headers:
 
 rows:
   - ["08:55-09:00", "Opening"]
-  - ["09:00-09:30", "Keynotes [Rayid Ghani]"]
+  - ["09:00-09:30", "Keynote [Rayid Ghani]"]
   - ["09:30-10:00", "Keynote [Sandra Wachter]: Regulating Code: What the European Union has in stock for the governance of Artificial Intelligence, foundation models, and generative AI"]
   - ["10:00-10:15", "Coffee Break"]
   - ["10:15-10:55", "Oral Presentation: Can copyright be reduced to privacy"]

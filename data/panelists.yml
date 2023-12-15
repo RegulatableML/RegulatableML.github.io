@@ -28,15 +28,15 @@
 
 - name: Deborah Raji
   affiliation1: Mozilla Foundation
-  affiliation2: University of 
-  affiliation3: California Berkeley
+  affiliation2: UC Berkeley
+  affiliation3:  
   portrait: /images/raji.jpg
   website: https://scholar.google.com/citations?hl=en&user=pzw1-J4AAAAJ
 
 - name: Elham Tabassi
-  affiliation1: National Institute 
-  affiliation2: of Standards and 
-  affiliation3: Technology (NIST)
+  affiliation1: NIST
+  affiliation2: 
+  affiliation3: 
   portrait: /images/elham.png
   website: https://www.nist.gov/people/elham-tabassi
 

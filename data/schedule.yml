@@ -22,8 +22,6 @@ rows:
   - ["15:00-15:15", "Coffee Break"]
   - ["15:15-15:45", "Keynote [Tatsunori Hashimoto]: Connecting provable guarantees and regulation of LLMs."]
   - ["15:45-16:40 ", "Panel Discussion"]
-  - ["16:40-17:20", "Oral Presentation: Can LLM-Generated Misinformation Be Detected?"]
+  - ["16:40-17:05", "Oral Presentation: Can LLM-Generated Misinformation Be Detected?"]
   - [" ", "Oral Presentation: Biological design tools illustrate distinct challenges in regulating dual-use AI"]
-  - [" ", "Oral Presentation: Learning to Walk Impartially on the Pareto Frontier of Fairness, Privacy, and Utility"]
-  - ["17:20-17:30", "Closing Remarks"]
-  
+  - ["17:05-17:10", "Closing Remarks"]

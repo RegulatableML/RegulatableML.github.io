@@ -4,7 +4,7 @@ headers:
 
 rows:
   - ["08:55-09:00", "Opening"]
-  - ["09:00-09:30", "Keynote [Rayid Ghani]"]
+  - ["09:00-09:30", "Keynote [Rayid Ghani]: Designing ML Systems that can be Regulated: Challenges and Opportunities"]
   - ["09:30-10:00", "Keynote [Sandra Wachter]: Regulating Code: What the European Union has in stock for the governance of Artificial Intelligence, foundation models, and generative AI"]
   - ["10:00-10:15", "Coffee Break"]
   - ["10:15-10:55", "Oral Presentation: Can copyright be reduced to privacy"]
@@ -15,7 +15,7 @@ rows:
   - ["12:20-13:10", "Lunch Break"]
   - ["13:10-13:35", "Oral Presentation: SILO Language Models: Isolating Legal Risk In a Nonparametric Datastore"]
   - [" ", "Oral Presentation: Detecting Pretraining Data from Large Language Models"]
-  - ["13:35-14:05", "Keynote [Elham Tabassi]"]
+  - ["13:35-14:05", "Keynote [Elham Tabassi]: Path to trustworthy and responsible AI"]
   - ["14:05-14:35", "Keynote [Meg Mitchell and Yacine Jernite]: Regulating ML: Rights, Transparency, and Agency"]
   - ["14:35-15:00", "Oral Presentation: Learning from Label Proportions: Bootstrapping Supervised Learners via Belief Propagation"]
   - [" ", "Oral Presentation: Towards a Post-Market Monitoring Framework for Machine Learning-based Medical Devices: A case study"]

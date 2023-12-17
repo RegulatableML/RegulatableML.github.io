@@ -26,6 +26,16 @@ Please check out our [Call for Papers](/cfp/).
 Dec 16, 2023; New Orleans Convention Center (Room 215 - 216)
 {{< schedule >}}
 
+# Awards
+
+## Outstanding Papers
+- SILO Language Models: Isolating Legal Risk In a Nonparametric Datastore (Sewon Min, Suchin Gururangan, Eric Wallace, Weijia Shi, Hannaneh Hajishirzi, Noah Smith, Luke Zettlemoyer)
+- Towards a Post-Market Monitoring Framework for Machine Learning-Based Medical Devices: A Case Study (Jean Feng, Adarsh Subbaswamy, Alexej Gossmann, Harvineet Singh, Berkman Sahiner, Mi-Ok Kim, Gene Pennello, Nicholas Petrick, Romain Pirracchio, Fan Xia)
+- Merging (EU)-Regulation and Model Reporting (Danilo Brajovic, Vincent Philipp Göbels, Janika Kutz, Marco Huber)
+
+## Outstanding Reviewers
+Will Fleisher (Georgetown University), Philippe Giabbanelli (Miami University)
+
 # Organizers
 
 If you have any questions, please contact us via the following email: [regulatableml@googlegroups.com](mailto:regulatableml@googlegroups.com).

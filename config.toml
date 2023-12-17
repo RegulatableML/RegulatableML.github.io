@@ -34,15 +34,20 @@ defaultContentLanguage = "en"
     url        = "/#schedule"
     weight     = 5
 [[menu.main]]
+    name       = "Awards"
+    identifier = "menu.awd"
+    url        = "/#awards"
+    weight     = 6
+[[menu.main]]
     name       = "Organization"
     identifier = "menu.organization"
     url        = "/#organizers"
-    weight     = 6
+    weight     = 7
 [[menu.main]]
     name       = "Accepted Papers"
     identifier = "menu.ap"
     url        = "https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/RegML#tab-accept"
-    weight     = 7
+    weight     = 8
 
 
 [params]

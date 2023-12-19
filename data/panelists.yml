@@ -5,13 +5,6 @@
   portrait: /images/rayid.png
   website: http://www.rayidghani.com
 
-- name: Tatsunori Hashimoto
-  affiliation1: Stanford University
-  affiliation2: 
-  affiliation3: 
-  portrait: /images/tatsunori.jpg
-  website: https://thashim.github.io
-
 - name: Jon Kleinberg
   affiliation1: Cornell University
   affiliation2:
@@ -40,4 +33,4 @@
   portrait: /images/elham.png
   website: https://www.nist.gov/people/elham-tabassi
 
-# Rayid Ghani, Tatsunori Hashimoto, Yacine Jernite, Jon Kleinberg， Margaret Mitchell， Deborah Raji, Elham Tabassi, 
+# Rayid Ghani, Yacine Jernite, Jon Kleinberg， Margaret Mitchell， Deborah Raji, Elham Tabassi, 

@@ -26,6 +26,8 @@ Please check out our [Call for Papers](/cfp/).
 Dec 16, 2023; New Orleans Convention Center (Room 215 - 216)
 {{< schedule >}}
 
+<span style="color: red;">Additionally, the paper 'Who Leaked the Model? Tracking IP Infringers in Accountable Federated Learning' also received an oral presentation.</span>
+
 # Awards
 
 ## Outstanding Papers

@@ -15,14 +15,17 @@ The main focus of this workshop is about identifying and bridging the gaps betwe
 
 ## Important Dates
 
-All deadlines are due 23:59 PM AOE.
+All deadlines are due 23:59 PM in *GMT* time zone.
 
-- Submission Deadline: Aug 30, 2024
-- Acceptance Notification: Sept 30, 2024
+- Abstract Deadline: ~~Sep 22~~ Sep 25, 2023
+- Submission Deadline: ~~Sep 29~~ Oct 2, 2023
+- Acceptance Notification: Oct 27, 2023
 
 ## Submission Instruction
 
 This workshop is **non-archival**. We also welcome relevant findings that have been recently published. The review process is **double-blinded**. Submissions should be anonymized appropriately. 
+
+Abstracts and papers can be submitted through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/RegML).
 
 ## Format
 

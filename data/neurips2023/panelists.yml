@@ -1,0 +1,36 @@
+- name: Rayid Ghani
+  affiliation1: Carnegie Mellon
+  affiliation2: University
+  affiliation3: 
+  portrait: /images/rayid.png
+  website: http://www.rayidghani.com
+
+- name: Jon Kleinberg
+  affiliation1: Cornell University
+  affiliation2:
+  affiliation3: 
+  portrait: /images/jon.jpeg
+  website: https://www.cs.cornell.edu/home/kleinber/
+
+- name: Margaret Mitchell
+  affiliation1: Hugging Face
+  affiliation2: 
+  affiliation3: 
+  portrait: /images/margaret.jpg
+  website: https://www.m-mitchell.com
+
+- name: Deborah Raji
+  affiliation1: Mozilla Foundation
+  affiliation2: UC Berkeley
+  affiliation3:  
+  portrait: /images/raji.jpg
+  website: https://scholar.google.com/citations?hl=en&user=pzw1-J4AAAAJ
+
+- name: Elham Tabassi
+  affiliation1: NIST
+  affiliation2: 
+  affiliation3: 
+  portrait: /images/elham.png
+  website: https://www.nist.gov/people/elham-tabassi
+
+# Rayid Ghani, Yacine Jernite, Jon Kleinberg， Margaret Mitchell， Deborah Raji, Elham Tabassi, 

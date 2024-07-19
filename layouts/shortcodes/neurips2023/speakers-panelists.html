@@ -1,0 +1,22 @@
+<script src="/js/script.js"></script>
+<div class="ppl-list">
+    {{ range .Site.Data.neurips2023.speakers_panelists }}
+        <div class="person-container">
+            <div class="person-portrait">
+                <img src="{{ .portrait }}" alt="Portrait">
+            </div>
+            <div class="person-details">
+                <h1><a href="{{ .website }}" target="_blank" rel="noopener">{{ .name }}</a></h1>
+                <p><i>{{ .title }}</i></p>
+                <p>{{ .affiliation }}</p>
+                <p>Bio: {{ .bio }}</p>
+                <!-- <div class="buttons">
+                    <button onclick="showBio({{ .index }})">Bio</button>
+                </div>
+                <div id="bio-popup-{{ .index }}" class="popup">
+                    {{ .bio }}
+                </div> -->
+            </div>
+        </div>
+    {{ end }}
+</div>

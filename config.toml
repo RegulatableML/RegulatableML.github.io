@@ -1,4 +1,4 @@
-baseURL = "http://RegulatableML.github.io/"
+baseURL = "https://RegulatableML.github.io/"
 languageCode = "en-us"
 title = "Regulatable ML Workshop"
 theme = "ananke"
@@ -19,35 +19,15 @@ defaultContentLanguage = "en"
     url        = "/cfp"
     weight     = 2
 [[menu.main]]
-    name       = "Keynote Talks"
-    identifier = "menu.kt"
-    url        = "/#keynote-talks"
-    weight     = 3
-[[menu.main]]
-    name       = "Panel Discussion"
-    identifier = "menu.pd"
-    url        = "/#panel-discussion"
-    weight     = 4
-[[menu.main]]
-    name       = "Schedule"
-    identifier = "menu.sch"
-    url        = "/#schedule"
-    weight     = 5
-[[menu.main]]
-    name       = "Awards"
-    identifier = "menu.awd"
-    url        = "/#awards"
-    weight     = 6
-[[menu.main]]
     name       = "Organization"
     identifier = "menu.organization"
     url        = "/#organizers"
     weight     = 7
 [[menu.main]]
-    name       = "Accepted Papers"
-    identifier = "menu.ap"
-    url        = "https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/RegML#tab-accept"
-    weight     = 8
+    name       = "NeurIPS2023"
+    identifier = "menu.past.neurips2023"
+    url        = "/neurips2023"
+    weight     = 9
 
 
 [params]

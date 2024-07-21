@@ -16,7 +16,7 @@ Please check out our [Call for Papers](/cfp/).
 
 # Organizers
 
-If you have any questions, please contact us via the following email: [regulatableml@googlegroups.com](mailto:regulatableml@googlegroups.com).
+If you have any questions, please contact us via the following email: [regml-2024@googlegroups.com](mailto:regml-2024@googlegroups.com).
 
 ## Core Organizing Team
 

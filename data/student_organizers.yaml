@@ -4,8 +4,20 @@
   portrait: /images/usha.jpg
   website: https://ushabhalla.github.io/
 
+- name: Zana Bucinca
+  affiliation1: Harvard University
+  affiliation2: 
+  portrait: /images/zana.jpg
+  website: https://zbucinca.owlstown.net/
+
 - name: Junwei Deng
   affiliation1: University of Illinois
   affiliation2: Urbana-Champaign
   portrait: /images/junwei.jpeg
   website: https://theaperdeng.github.io/
+
+- name: Alex Oesterling
+  affiliation1: Harvard University
+  affiliation2:
+  portrait: /images/alex.JPG
+  website: https://alexoesterling.com/

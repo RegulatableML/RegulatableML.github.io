@@ -1,5 +1,5 @@
 ---
-title: "Regulatable ML @NeurIPS2024"
+title: "The 2nd Workshop on Regulatable ML @NeurIPS2024"
 description: "Towards Bridging the Gaps between Machine Learning Research and Regulations"
 featured_image: "images/regml-horizontal.png"
 draft: false
@@ -13,6 +13,11 @@ With the increasing deployment of machine learning in diverse applications affec
 This workshop aims to provide a platform for: i) discussing various algorithmic, technical, and policy challenges that arise when operationalizing various guidelines outlined in existing regulatory frameworks, and ii) finding solutions to mitigate and address these challenges. 
 
 Please check out our [Call for Papers](/cfp/).
+
+**Important Dates:**
+**- Abstract Deadline: Aug 25, 2024**
+**- Submission Deadline: Aug 30, 2024**
+**- Acceptance Notification: Oct 14, 2024**
 
 # Organizers
 

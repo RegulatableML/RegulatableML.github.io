@@ -24,7 +24,7 @@ defaultContentLanguage = "en"
     url        = "/#organizers"
     weight     = 7
 [[menu.main]]
-    name       = "NeurIPS2023"
+    name       = "Past Edition"
     identifier = "menu.past.neurips2023"
     url        = "/neurips2023"
     weight     = 9

@@ -27,9 +27,9 @@ All deadlines are due 23:59 PM in GMT time zone.
 
 ## Submission Instruction
 
-This workshop is non-archival. We also welcome relevant findings that have been recently published. The review process is double-blinded. Submissions should be anonymized appropriately.
+This workshop is non-archival. The review process is double-blinded. Submissions should be anonymized appropriately.
 
-Abstracts and papers can be submitted through OpenReview (link TBA).
+Abstracts and papers can be submitted through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/RegML).
 
 ## Format
 

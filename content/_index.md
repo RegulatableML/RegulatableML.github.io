@@ -15,9 +15,9 @@ This workshop aims to provide a platform for: i) discussing various algorithmic,
 Please check out our [Call for Papers](/cfp/).
 
 **Important Dates:**
-**- Abstract Deadline: Aug 25, 2024**
-**- Submission Deadline: Aug 30, 2024**
-**- Acceptance Notification: Oct 14, 2024**
+- **Abstract Deadline: ~~Aug 25~~ Sep 7, 2024**
+- **Submission Deadline: ~~Aug 30~~ Sep 12, 2024**
+- **Acceptance Notification: Oct 14, 2024**
 
 # Organizers
 

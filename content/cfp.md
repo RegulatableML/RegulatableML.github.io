@@ -21,8 +21,8 @@ The main focus of this workshop is to identify and bridge the gaps between ML re
 
 All deadlines are due 23:59 PM in GMT time zone.
 
-- Abstract Deadline: Aug 25, 2024
-- Submission Deadline: Aug 30, 2024
+- Abstract Deadline: ~~Aug 25~~ Sep 7, 2024
+- Submission Deadline: ~~Aug 30~~ Sep 12, 2024
 - Acceptance Notification: Oct 14, 2024
 
 ## Submission Instruction

@@ -21,3 +21,9 @@
   affiliation2:
   portrait: /images/alex.JPG
   website: https://alexoesterling.com/
+
+- name: Shichang Zhang
+  affiliation1: Harvard University
+  affiliation2:
+  portrait: /images/shichang.jpg
+  website: https://shichangzh.github.io/

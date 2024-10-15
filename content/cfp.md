@@ -33,4 +33,4 @@ Abstracts and papers can be submitted through [OpenReview](https://openreview.ne
 
 ## Format
 
-We welcome both short papers no longer than 4 pages and long papers of up to 9 pages, excluding references and unlimited supplementary materials. Please use the [NeurIPS 2024 template](https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip) and submit your paper(s) in PDF format.
+We welcome both short papers no longer than 4 pages and long papers of up to 9 pages, excluding references and unlimited supplementary materials. Please use the [RegML @ NeurIPS 2024 template](/template/Formatting_Instructions_For_RegML_at_NeurIPS_2024.zip) and submit your paper(s) in PDF format.

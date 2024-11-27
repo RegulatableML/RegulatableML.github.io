@@ -19,6 +19,10 @@ Please check out our [Call for Papers](/cfp/).
 - **Submission Deadline: ~~Aug 30~~ Sep 12, 2024**
 - **Acceptance Notification: Oct 14, 2024**
 
+# Schedule
+Dec 15, 2024; Vancouver Convention Centre (East Meeting Room 1-3)
+{{< schedule >}}
+
 # Organizers
 
 If you have any questions, please contact us via the following email: [regml-2024@googlegroups.com](mailto:regml-2024@googlegroups.com).

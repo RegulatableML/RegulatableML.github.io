@@ -20,7 +20,7 @@ Please check out our [Call for Papers](/cfp/).
 - **Acceptance Notification: Oct 14, 2024**
 
 # Schedule
-Dec 15, 2024; Vancouver Convention Centre (East Meeting Room 1-3)
+Dec 15, 2024; Vancouver Convention Centre (EAST MR 13)
 {{< schedule >}}
 
 # Organizers

@@ -1,66 +1,57 @@
 - index: 1
-  name: Rayid Ghani
-  affiliation: Carnegie Mellon University
-  portrait: /images/rayid.png
-  title: Distinguished Career Professor
-  website: http://www.rayidghani.com
-  bio: Rayid is a reformed computer scientist and wanna-be social scientist, but mostly just wants to increase the use of large-scale AI/Machine Learning/Data Science in solving large public policy and social challenges in a fair and equitable manner. Among other areas, Rayid works with governments and non-profits in policy areas such as health, criminal justice, education, public safety, economic development, and urban infrastructure. Rayid is also passionate about teaching practical data science and started the Data Science for Social Good Fellowship that trains computer scientists, statisticians, and social scientists from around the world to work on data science problems with social impact. Before joining Carnegie Mellon University, Rayid was the Founding Director of the Center for Data Science & Public Policy, Research Associate Professor in Computer Science, and a Senior Fellow at the Harris School of Public Policy at the University of Chicago. Previously, Rayid was the Chief Scientist of the Obama 2012 Election Campaign where he focused on data, analytics, and technology to target and influence voters, donors, and volunteers. In his ample free time, Rayid obsesses over everything related to coffee and works with non-profits to help them with their data, analytics and digital efforts and strategy.
-  talk_title: "Designing ML Systems that can be Regulated: Challenges and Opportunities"
-  abstract: We’ve seen a lot of talks, frameworks, and guidelines over the past year on regulating ML. In this talk, I’ll discuss why the current norms and practices in the ML research and practice community don’t lend themselves well to being regulated and what types of changes need to take place, from scoping and formulation, to design and development, to evaluation and monitoring, in order to result in ML systems that could be reliably deployed to help achieve societal, business, and policy outcomes that we want.
+  name: Rumman Chowdhury
+  affiliation: Humane Intelligence
+  portrait: /images/Chowdhury.png
+  title: CEO and co-Founder
+  website: http://www.rummanchowdhury.com/
+  bio: 
+  talk_title: "TBD"
+  abstract: 
 
 - index: 2
-  name: Sandra Wachter
-  affiliation: University of Oxford
-  portrait: /images/sandra.png
+  name: Yoshua Bengio
+  affiliation: Université de Montréal
+  portrait: /images/BENGIO.jpg
   title: Professor
-  website: https://www.oii.ox.ac.uk/people/profiles/sandra-wachter/
-  bio: Professor Sandra Wachter is Professor of Technology and Regulation at the Oxford Internet Institute at the University of Oxford where she researches the legal and ethical implications of AI, Big Data, and robotics as well as Internet and platform regulation. Her current research focuses on profiling, inferential analytics, explainable AI, algorithmic bias, diversity, and fairness, as well as governmental surveillance, predictive policing, human rights online, and health tech and medical law. At the OII, Professor Sandra Wachter leads and coordinates the Governance of Emerging Technologies (GET) Research Programme that investigates legal, ethical, and technical aspects of AI, machine learning, and other emerging technologies. Professor Wachter is also an affiliate and member at numerous institutions, such as  the Berkman Klein Center for Internet & Society at Harvard University, World Economic Forum’s Global Futures Council on Values, Ethics and Innovation, the UNESCO, the European Commission’s Expert Group on Autonomous Cars, the Law Committee of the IEEE, the World Bank’s Task Force on Access to Justice and Technology, the United Kingdom Police Ethics Guidance Group, the British Standards Institution, the Law Faculty at Oxford, the Bonavero Institute of Human Rights, the Oxford Martin School and Oxford University Press. Professor Wachter also serves as a policy advisor for governments, companies, and NGO’s around the world on regulatory and ethical questions concerning emerging technologies.
-  talk_title: "Regulating Code: What the European Union has in stock for the governance of Artificial Intelligence, foundation models, and generative AI"
-  abstract: It is often said that while the US innovates Europe regulates. But is this actually true? AI, machine learning and generative AI pose new risks and opportunities to our society and many hope or fear that Europe will have a heavy regulatory hand. However, this talk will demystify this assumption and show how EU-laws often under- AND overregulate at the same time. I will explore the actual obligations, shed light on their loopholes, expose shortfalls and explain how to fix them.
+  website: https://yoshuabengio.org/
+  bio: Yoshua Bengio is Full Professor in the Department of Computer Science and Operations Research at U. Montreal, as well as the Founder and Scientific Director of Mila and the Scientific Director of IVADO. He also holds the Canada CIFAR AI Chair. He is one of the world's leading experts in artificial intelligence and deep learning. In 2018, he received the A.M. Turing Award, which is considered the "Nobel prize of computing." He is a Fellow of the Royal Society of London and Canada, an Officer of the Order of Canada, a Knight of the Legion of Honor of France, and a member of the UN's Scientific Advisory Board for Independent Advice on Breakthroughs in Science and Technology. Concerned about the social impact of AI, he actively contributed to the Montreal Declaration for the Responsible Development of Artificial Intelligence and now devotes himself to reducing the catastrophic risks of future AI, currently chairing the International Scientific Report on the Safety of Advanced AI.
+  talk_title: "Why and how to regulate Frontier AI?"
+  abstract: Opinions differ on the horizon but a majority of ML researchers believe that we are on track to achieve human-level AI across most cognitive tasks. What are the different risks associated with these future advances and how can we evaluate and mitigate them? The author is chairing the International Scientific Report on the Safety of Advanced AI which seeks to synthesize the scientific literature on this subject and inform policy-makers. In this context, regulation seems necessary to protect the public against these risks, to prevent economically expensive backlash against the technology in case of accidents, to level the playing field and not reward the least safety-conscious AI labs. The challenge is that AI methods are advancing rapidly and that the science of AI safety is still nascent and lacks answers about how to provide strong safety assurances. We will discuss why this calls for regulation that is future-proof and not prescribing particular evaluation and mitigation methodologies but incentivizing corporations to invest more in the required R&D.. 
+
 
 - index: 3
-  name: Jon Kleinberg
-  affiliation: Cornell University
-  portrait: /images/jon.jpeg
-  title: Tisch University Professor
-  website: https://www.cs.cornell.edu/home/kleinber/
-  bio: Jon Kleinberg is the Tisch University Professor in the Computer Science Department at Cornell University. His research focuses on issues at the interface of networks and information, with an emphasis on the social and information networks that underpin the Web and other on-line media. He is a member of the National Academy of Sciences, the National Academy of Engineering, and the American Academy of Arts and Sciences, and serves on the Computer and Information Science and Engineering (CISE) Advisory Committee of the National Science Foundation, and the Computer Science and Telecommunications Board (CSTB) of the National Research Council. He is the recipient of MacArthur, Packard, and Sloan Foundation Fellowships, as well as awards including the Nevanlinna Prize, the Lanchester Prize, and the ACM-Infosys Foundation Award in the Computing Sciences.
-  talk_title: "Fine-Tuning Games: Modeling the Ecosystem of Machine Learning Applications and their Development"
-  abstract: Major advances in machine learning (ML) and artificial intelligence (AI) increasingly take the form of developing and releasing general-purpose models. These models are designed to be adapted by other businesses and agencies to perform a particular, domain-specific function. This process has become known as adaptation or fine-tuning. In order to understand questions about responsibility and regulation in an ecosystem where multiple parties produce applications in this way, we need reasonable models of the incentives that drive this type of production. Here we offer a model of this multi-party process, in which a general provider of machine learning technology brings the system to a certain level of performance, and one or more Domain-specialists adapt it for use in particular domains. Our model provides high-level takeaways for how incentives operate in this setting, and in this way it suggests how we might think about responsible development and regulation of these technologies. This is joint work with Ben Laufer and Hoda Heidari. 
+  name: Peter Henderson
+  affiliation: Princeton University
+  portrait: /images/peter.jpg
+  title: Assistant Professor
+  website:  https://www.peterhenderson.co/
+  bio: Peter Henderson is an Assistant Professor at Princeton University with appointments in the Department of Computer Science and the School of Public and International Affairs. Previously, he received a JD and PhD in Computer Science at Stanford University. His research focuses on the intersection of AI and law. This includes building AI systems that work for the public good, making AI systems safe, and making sure that the law shapes positive outcomes for AI. His work has been covered by major media outlets like the New York Times and The Wall Street Journal. And has been cited by policymakers and courts.
+  talk_title: "The Challenges of Pre-Deployment Regulability for General-purpose AI Systems"
+  abstract: Policymakers and key stakeholders place significant emphasis on pre-deployment evaluations and model-based safeguards for general-purpose AI systems. However, these evaluations suffer from a wide range of challenges. In particular, they do not provide any guarantees about downstream model behaviors, especially under an adversarial model. This talk will explore these challenges, as well as paths forward.
+
 
 - index: 4
-  name: Elham Tabassi
-  affiliation: National Institute of Standards and Technology (NIST)
-  portrait: /images/elham.png
-  title: Associate Director for Emerging Technologies
-  website: https://www.nist.gov/people/elham-tabassi
-  bio: "Elham Tabassi is a Senior Research Scientist at the National Institute of Standards and Technology (NIST) and the Associate Director for Emerging Technologies in the Information Technology Laboratory (ITL). She also leads NIST’s Trustworthy and Responsible AI program that aims to cultivate trust in the design, development, and use of AI technologies. As the ITL’s Associate Director for Emerging Technologies, Elham assists NIST leadership and management at all levels in determining future strategic direction for research, development, standards, testing and evaluation in the areas of emerging technologies such as artificial intelligence. She also coordinates interaction related to artificial intelligence with the U.S. research community, U.S. industrial community, international standards community, and other federal agencies; and provides leadership within NIST in the use of AI to solve scientific and engineering problems arising in measurement science and related use-inspired applications of AI. \n Elham has been working on various machine learning and computer vision research projects with applications in biometrics evaluation and standards since she joined NIST in 1999. She is a member of the National AI Resource Research Task Force, vice-chair of OECD working party on AI Governance, Associate Editor of IEEE Transaction on Information Forensics and Security, and a fellow of Washington Academy of Sciences."
-  talk_title: "Path to trustworthy and responsible AI"
-  abstract: With AI already changing the way in which society addresses economic and national security challenges and opportunities, AI technologies must be developed and used in a trustworthy and responsible manner. Experts in industry, academia, and government are still assessing how to best measure and manage risks and impacts of AI systems.  At NIST we believe that working together to develop and advance the science of AI safety will harness the power of AI to serve humanity. We have been and will continue developing tests and facilitating the development of standards – measurement science and standards that will allow industry, academia, and government to better map, measure and manage AI risks. This work is a necessary precursor to any compliance or conformity assessment, either voluntary or required. Delivering these needed measurements, standards, and other tools is a primary focus for NIST’s portfolio of AI efforts. This talk provides an overview of NIST Trustworthy and Responsible AI program.
-
-- index: 5
-  name: Margaret Mitchell
-  affiliation: Hugging Face
-  portrait: /images/margaret.jpg
-  title: Researcher and Chief Ethics Scientist
-  website: https://www.m-mitchell.com
-  name2: Yacine Jernite
-  affiliation2: Hugging Face
-  portrait2: /images/jernite.jpg
-  title2: ML and Society Lead
-  website2: https://yjernite.github.io/
-  bio: Margaret Mitchell is a researcher focused on the ins and outs of machine learning and ethics-informed AI development in tech. She has published around 100 papers on natural language generation, assistive technology, computer vision, and AI ethics, and holds multiple patents in the areas of conversation generation and sentiment classification. She has recently received recognition as one of Time's Most Influential People of 2023. She currently works at Hugging Face as Chief Ethics Scientist, driving forward work in the ML development ecosystem, ML data governance, AI evaluation, and AI ethics. She previously worked at Google AI as a Staff Research Scientist, where she founded and co-led Google's Ethical AI group, focused on foundational AI ethics research and operationalizing AI ethics Google-internally. Before joining Google, she was a researcher at Microsoft Research, focused on computer vision-to-language generation; and was a postdoc at Johns Hopkins, focused on Bayesian modeling and information extraction. She holds a PhD in Computer Science from the University of Aberdeen and a Master's in computational linguistics from the University of Washington. While earning her degrees, she also worked from 2005-2012 on machine learning, neurological disorders, and assistive technology at Oregon Health and Science University. She has spearheaded a number of workshops and initiatives at the intersections of diversity, inclusion, computer science, and ethics. Her work has received awards from Secretary of Defense Ash Carter and the American Foundation for the Blind, and has been implemented by multiple technology companies. She likes gardening, dogs, and cats. 
-  bio2: Dr. Yacine Jernite leads the ML and Society team at Hugging Face, where they work on ML systems governance. Their work to date has focused on NLP and multimodal models and data curation, documentation, and governance. Their recent projects have included co-organizing the BigScience workshop on large language models as data area chair and research at the intersection of ethical, technical, and regulatory aspects of ML.
-  talk_title: "Regulating ML: Rights, Transparency, and Agency"
+  name: Dawn Song
+  affiliation: University of California, Berkeley
+  portrait: /images/song.jpeg
+  title: Professor
+  website: https://dawnsong.io/
+  name2: Rishi Bommasani
+  affiliation2: Stanford University
+  portrait2: /images/Bommasani.png
+  title2: Society Lead
+  website2:  https://rishibommasani.github.io/
+  bio: Professor Song is the Director of Berkeley RDI; she works in AI, AI safety & security, and decentralization. Her work has won numerous awards, including MacArthur Fellowship,  Guggenheim Fellowship, more than 10 Test-of-Time Awards and Best Paper Awards at top Machine Learning and Computer Security conferences,  She is ranked the most cited scholar in computer security. She is also a serial entrepreneur, having founded multiple successful startups, named on the Female Founder 100 List by Inc. and Wired25 List of Innovators.
+  bio2: Rishi Bommasani is the Society Lead at the Stanford Center for Research on Foundation Models. He researches the societal impact of foundation models and advances evidence-based AI policy. Rishi's work has been featured in The Atlantic, MIT Technology Review, Nature, The New York Times, Quanta, Reuters, Science, The Wall Street Journal and The Washington Post. He serves as one of the chairs of EU AI Act Code of Practice and authors of the International Scientific Report on the Safety of Advanced AI.
+  talk_title: "Interactive Discussion on A Path for Science‑ and Evidence‑based AI Policy"
   abstract: As ML is becoming ubiquitous and creating new and impressive artifacts, regulatory agencies around the world are grappling with the unique properties of this new category of technology. In order to properly address these challenges, we argue for an approach centered on the dual pillars of rights and transparency to ensure that the technology is subject to the appropriate democratic governance. We outline some of the recent developments and proposals made by policymakers in this direction, how they connect to AI, and provide both organizational and technical tools to support well-informed regulation aligned with technology development now and in the future.
 
-- index: 6
-  name: Tatsunori Hashimoto
-  affiliation: Stanford University
-  portrait: /images/tatsunori.jpg
-  title: Assistant Professor
-  website: https://thashim.github.io
-  talk_title: Connecting provable guarantees and regulation of LLMs.
-  bio: Tatsunori Hashimoto is an Assistant Professor in the Computer Science Department at Stanford University. He is a member of the statistical machine learning and natural language processing groups at Stanford, and his research uses tools from statistics to make machine learning systems more robust and trustworthy — especially in complex systems such as large language models. He is a Kavli fellow, a Sony and Amazon research award winner, and his work has been recognized with best paper awards at ICML and CHI.
-  abstract: The complexity and black-box nature of LLMs makes it difficult to provide meaningful guarantees, which in turn complicates efforts to regulate and audit LLMs. In this talk, I will discuss how statistical guarantees on various properties of LLMs such as privacy (via differential privacy) and provenance (via watermarking or membership inference) provide powerful primitives for thinking about important regulatory issues such as copyright. At the same time, implementing and deploying these primitives can be challenging and I will discuss pitfalls and open problems in the interaction of various statistical guarantees and LLM deployment environments.
-
+- index: 5
+  name: Reva Schwartz
+  affiliation: National Institute of Standards and Technology
+  portrait: /images/Schwartz.jpg
+  title: Research Scientist
+  website: https://www.nist.gov/people/reva-schwartz
+  talk_title: Real World Matters: What Actually Happens When People Use AI? The NIST Assessing Risks and Impacts of AI (ARIA) Program
+  bio: Reva Schwartz is a research scientist at the National Institute of Standards and Technology’s (NIST) Information Technology Laboratory (ITL) where she serves as Principal Investigator on Bias in Artificial Intelligence and leads ARIA, a research program which advances the measurement of AI’s risks to people and society.  She previously served as forensic scientist for almost 15 years at the United States Secret Service and adjunct researcher at the Johns Hopkins University Human Language Technology Center of Excellence. \n Reva’s background is in linguistics and human language technology. A socio-technical researcher, she focuses on real world testing methodologies and people-centered approaches for AI measurement. She has advised federal agencies about how experts interact with automation to make sense of information in high-stakes settings.
+  abstract: ARIA (Assessing Risks and Impacts of AI) is a NIST evaluation-driven research program to develop measurement methods that can account for AI’s risks and impacts in the real world. The program establishes an experimentation environment to gather evidence about AI’s risks to the public under controlled real-world conditions. In contrast to current approaches that rely on probabilities and predictions of what might happen, ARIA will enable direct observation of AI system behaviors and impacts on users. ARIA pairs people with AI applications in experimental scenarios designed around specific AI risks, and studies the results. Applications are submitted to NIST from around the globe and evaluated based on whether risks materialized in the resulting interactions, and the magnitude and degree of resulting impacts. Participating teams will learn whether their applications can maintain functionality across the varying contexts of the test environment.

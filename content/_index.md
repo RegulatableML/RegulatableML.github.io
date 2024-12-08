@@ -19,6 +19,14 @@ Please check out our [Call for Papers](/cfp/).
 - **Submission Deadline: ~~Aug 30~~ Sep 12, 2024**
 - **Acceptance Notification: Oct 14, 2024**
 
+# Keynote Talks
+
+{{< speakers >}}
+
+# Panel Discussion
+
+{{< panelists >}}
+
 # Schedule
 Dec 15, 2024; Vancouver Convention Centre (EAST MR 13)
 {{< schedule >}}

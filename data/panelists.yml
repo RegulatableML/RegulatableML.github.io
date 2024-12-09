@@ -12,8 +12,8 @@
   website: https://oecd.ai/en/community/lee-wan-sie
 
 - name: Surdas Mohit
-  affiliation1: Canadian AI
-  affiliation2: Safety Institute
+  affiliation1: CAISI &
+  affiliation2: ISED Canada
   affiliation3: 
   portrait: /images/Mohit.jpg
   website: https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute
@@ -27,7 +27,7 @@
 
 - name: Rob Reich
   affiliation1: Stanford University
-  affiliation2: 
+  affiliation2: US AI Safety Institute
   affiliation3: 
   portrait: /images/Reich.jpg
   website: https://www.linkedin.com/in/rob-reich-8555738/

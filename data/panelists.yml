@@ -12,16 +12,16 @@
   website: https://oecd.ai/en/community/lee-wan-sie
 
 - name: Surdas Mohit
-  affiliation1: CAISI &
-  affiliation2: ISED Canada
-  affiliation3: 
+  affiliation1: ISED Canada
+  affiliation2: Canada AI 
+  affiliation3: Safety Institute
   portrait: /images/Mohit.jpg
   website: https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute
 
 - name: Sella Nevo
-  affiliation1: RAND's
-  affiliation2: Meselson Center
-  affiliation3: 
+  affiliation1: RAND's Meselson
+  affiliation2: Center on AI
+  affiliation3: Security and Biosecurity
   portrait: /images/Nevo.JPG
   website: https://www.sellanevo.com
 

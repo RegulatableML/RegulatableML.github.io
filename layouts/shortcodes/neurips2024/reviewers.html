@@ -1,0 +1,20 @@
+<div class="reviewers-list">
+    <table>
+        <thead>
+            <tr>
+                {{ range .Site.Data.neurips2024.reviewers.headers }}
+                    <th>{{ . }}</th>
+                {{ end }}
+            </tr>
+        </thead>
+        <tbody>
+            {{ range .Site.Data.neurips2024.reviewers.rows }}
+            <tr>
+                {{ range . }}
+                    <td>{{ . }}</td>
+                {{ end }}
+            </tr>
+            {{ end }}
+        </tbody>
+    </table>
+</div>

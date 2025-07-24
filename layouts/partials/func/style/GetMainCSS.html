@@ -1,0 +1,37 @@
+{{/*
+  Simple CSS override to avoid SCSS compilation issues
+  This bypasses the complex SCSS processing for compatibility
+*/}}
+
+{{ $assets_to_concat := slice }}
+
+{{/* Add basic CSS files from the theme */}}
+{{ $tachyons := resources.Get "ananke/css/_tachyons.css" }}
+{{ $code := resources.Get "ananke/css/_code.css" }}
+{{ $hugo := resources.Get "ananke/css/_hugo-internal-templates.css" }}
+{{ $social := resources.Get "ananke/css/_social-icons.css" }}
+{{ $styles := resources.Get "ananke/css/_styles.css" }}
+
+{{ with $tachyons }}
+  {{ $assets_to_concat = $assets_to_concat | append . }}
+{{ end }}
+{{ with $code }}
+  {{ $assets_to_concat = $assets_to_concat | append . }}
+{{ end }}
+{{ with $hugo }}
+  {{ $assets_to_concat = $assets_to_concat | append . }}
+{{ end }}
+{{ with $social }}
+  {{ $assets_to_concat = $assets_to_concat | append . }}
+{{ end }}
+{{ with $styles }}
+  {{ $assets_to_concat = $assets_to_concat | append . }}
+{{ end }}
+
+{{ $main_style := dict }}
+{{ with $assets_to_concat }}
+  {{ $style := . | resources.Concat "ananke/css/main.css" }}
+  {{ $main_style = $style }}
+{{ end }}
+
+{{ return $main_style }} 

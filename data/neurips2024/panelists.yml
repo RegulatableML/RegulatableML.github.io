@@ -1,0 +1,40 @@
+- name: Gillian K. Hadfield
+  affiliation1: Johns Hopkins
+  affiliation2: University
+  affiliation3: 
+  portrait: /images/Hadfield.JPG
+  website: https://gillianhadfield.org/
+
+- name: Wan Sie Lee
+  affiliation1: Singapore's IMDA
+  affiliation3: 
+  portrait: /images/Sie.jpg
+  website: https://oecd.ai/en/community/lee-wan-sie
+
+- name: Surdas Mohit
+  affiliation1: ISED Canada
+  affiliation2: Canada AI 
+  affiliation3: Safety Institute
+  portrait: /images/Mohit.jpg
+  website: https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute
+
+- name: Sella Nevo
+  affiliation1: RAND's Meselson
+  affiliation2: Center on AI
+  affiliation3: Security and Biosecurity
+  portrait: /images/Nevo.JPG
+  website: https://www.sellanevo.com
+
+- name: Rob Reich
+  affiliation1: Stanford University
+  affiliation2: US AI Safety Institute
+  affiliation3: 
+  portrait: /images/Reich.jpg
+  website: https://www.linkedin.com/in/rob-reich-8555738/
+
+- name: Savannah Thais
+  affiliation1: Columbia University
+  affiliation2:
+  affiliation3: 
+  portrait: /images/thais.jpg
+  website: https://x.com/basicsciencesav?lang=en

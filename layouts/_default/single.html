@@ -1,0 +1,55 @@
+{{ define "header" }}
+   {{/* We can override any block in the baseof file be defining it in the template */}}
+  {{ partial "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+  <div class="flex-l mt2 mw8 center">
+    <article class="center cf pv5 ph3 ph4-ns mw7">
+      <header>
+        <div class="mb4">
+          {{ if .Date }}
+            <time class="f6 mv4 dib tracked" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>{{.Date.Format "January 2, 2006"}}</time>
+          {{ end }}
+        </div>
+        {{ if .Title }}
+        <h1 class="f1 athelas mt3 mb1">
+          {{- .Title -}}
+        </h1>
+        {{ end }}
+        {{ if .Params.author }}
+          <p class="tracked">
+             By <strong>
+             {{ if reflect.IsSlice .Params.author }}
+                 {{ delimit .Params.author ", " | markdownify }}
+             {{else}}
+                 {{ .Params.author | markdownify }}
+             {{ end }}
+             </strong>
+          </p>
+        {{ end }}
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+        {{ if .Site.Params.addthis_id }}
+          <div class="addthis_inline_share_toolbox"></div>
+        {{ end }}
+      </header>
+      <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
+        {{- .Content -}}
+        {{- partial "tags.html" . -}}
+        <div class="mt6 instapaper_ignoref">
+        {{ if .Site.Params.disqusShortname }}
+          {{ template "_internal/disqus.html" . }}
+        {{ end }}
+        {{ if .Site.Params.commentoEnable }}
+          {{- partial "commento.html" . -}}
+        {{ end }}
+        </div>
+      </div>
+    </article>
+  </div>
+  {{ if .Site.Params.addthis_id }}
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ .Site.Params.addthis_id }}"></script>
+  {{ end }}
+{{ end }} 

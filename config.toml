@@ -24,12 +24,29 @@ defaultContentLanguage = "en"
     url        = "/#organizers"
     weight     = 7
 [[menu.main]]
-    name       = "Past Edition"
+    name       = "Past Editions"
+    identifier = "menu.past"
+    url        = "/#past-editions"
+    weight     = 8
+[[menu.main]]
+    name       = "RegML 2024"
+    identifier = "menu.past.neurips2024"
+    url        = "/neurips2024"
+    parent     = "menu.past"
+    weight     = 9
+[[menu.main]]
+    name       = "RegML 2023"
     identifier = "menu.past.neurips2023"
     url        = "/neurips2023"
-    weight     = 9
+    parent     = "menu.past"
+    weight     = 10
 
+# Disqus configuration (disabled for now)
+disqusShortname = ""
 
 [params]
 	custom_css = ["custom.css"]
 	# body_classes = "calibre bg-near-white"
+	# Disable Disqus comments
+	commentoEnable = false
+	disqusShortname = ""

@@ -1,4 +1,29 @@
-- name: "TBD"
-  affiliation: "TBD"
+- name: Junwei Deng
+  affiliation1: University of Illinois
+  affiliation2: Urbana-Champaign
+  portrait: /images/junwei.jpeg
+  website: https://theaperdeng.github.io/
+
+- name: Pingbang Hu
+  affiliation1: TBD
+  affiliation2: 
+  portrait: /images/regml.png
   website: "#"
-  portrait: "images/regml.png"
+
+- name: Eileanor LaRocco
+  affiliation1: TBD
+  affiliation2: 
+  portrait: /images/regml.png
+  website: "#"
+
+- name: Karolina Naranjo
+  affiliation1: TBD
+  affiliation2: 
+  portrait: /images/regml.png
+  website: "#"
+
+- name: Shichang Zhang
+  affiliation1: Harvard University
+  affiliation2:
+  portrait: /images/shichang.jpg
+  website: https://shichangzh.github.io/

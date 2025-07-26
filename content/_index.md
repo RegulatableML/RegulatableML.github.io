@@ -39,7 +39,7 @@ TBD
 
 # Organizers
 
-If you have any questions, please contact us via the following email: [regml-2025@googlegroups.com](mailto:regml-2025@googlegroups.com).
+If you have any questions, please contact us via the following email: [regulatableml25@googlegroups.com](mailto:regulatableml25@googlegroups.com).
 
 ## Core Organizing Team
 

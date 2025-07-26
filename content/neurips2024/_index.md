@@ -42,3 +42,7 @@ If you have any questions, please contact us via the following email: [regml-202
 ### Student Organizers
 
 {{< neurips2024/student-organizers >}} 
+
+## Reviewers
+
+{{< neurips2024/reviewers >}}

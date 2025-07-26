@@ -1,4 +1,23 @@
-- name: "TBD"
-  affiliation: "TBD"
-  website: "#"
-  portrait: "images/regml.png"
+- name: Chirag Agarwal
+  affiliation1: University of Virginia
+  affiliation2: 
+  portrait: /images/chirag.png
+  website: https://chirag-agarwall.github.io/
+
+- name: Hima Lakkaraju
+  affiliation1: Harvard University
+  affiliation2: 
+  portrait: /images/hima.jpeg
+  website: http://himalakkaraju.github.io
+
+- name: Jiaqi Ma
+  affiliation1: University of Illinois
+  affiliation2: Urbana-Champaign
+  portrait: /images/jiaqi.jpeg
+  website: https://jiaqima.github.io
+
+- name: Sarah Tan
+  affiliation1: Salesforce
+  affiliation2: Cornell University
+  portrait: /images/sarah.png
+  website: https://shftan.github.io

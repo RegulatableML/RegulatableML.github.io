@@ -26,7 +26,7 @@ All deadlines are due 23:59 PM in GMT time zone.
 
 This workshop is non-archival. The review process is double-blinded. Submissions should be anonymized appropriately.
 
-Abstracts and papers can be submitted through OpenReview (link will be provided when available).
+Abstracts and papers can be submitted through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/RegML).
 
 ## Format
-We welcome both short papers no longer than 4 pages and long papers of up to 9 pages, excluding references and unlimited supplementary materials. Please use the RegML @ NeurIPS 2025 template (will be provided) and submit your paper(s) in PDF format.
+We welcome both short papers no longer than 4 pages and long papers of up to 9 pages, excluding references and unlimited supplementary materials. Please use the [RegML @ NeurIPS 2025 template](/template/style-2025.zip) and submit your paper(s) in PDF format.

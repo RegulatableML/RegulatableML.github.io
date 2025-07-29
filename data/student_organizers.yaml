@@ -5,22 +5,22 @@
   website: https://theaperdeng.github.io/
 
 - name: Pingbang Hu
-  affiliation1: TBD
-  affiliation2: 
-  portrait: /images/regml.png
-  website: "#"
+  affiliation1: University of Illinois
+  affiliation2: Urbana-Champaign
+  portrait: /images/pingbang.png
+  website: "https://pbb.wtf"
 
 - name: Eileanor LaRocco
-  affiliation1: TBD
+  affiliation1: University of Virginia
   affiliation2: 
-  portrait: /images/regml.png
-  website: "#"
+  portrait: /images/Eileanor.jpg
+  website: "https://datascience.virginia.edu/people/eileanor-larocco"
 
 - name: Karolina Naranjo
-  affiliation1: TBD
+  affiliation1: University of Virginia
   affiliation2: 
-  portrait: /images/regml.png
-  website: "#"
+  portrait: /images/karolina_naranjo.png
+  website: "https://datascience.virginia.edu/people/karolina-naranjo-velasco"
 
 - name: Shichang Zhang
   affiliation1: Harvard University

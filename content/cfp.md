@@ -4,15 +4,15 @@ title: "Call for Papers"
 
 ## Topics
 
-Formally, we will solicit paper submissions on the following topics:
+We encourage paper submissions relevant to (but not limited to) the following topics:
 
-1. **Survey workflow-level defenses** (e.g., sandboxing, provenance tracking) to prevent data leakage and unauthorized actions
+1. Survey workflow-level defenses (e.g., sandboxing, provenance tracking) to prevent data leakage and unauthorized actions
 
-2. **Explore model evaluation protocols and compliance criteria** inspired by the EU AI Act's conformity assessments (risk assessments, technical documentation, logging) and investigate the role of independent third-party audits and "safety labels" for AI systems.
+2. Explore model evaluation protocols and compliance criteria inspired by the EU AI Act's conformity assessments (risk assessments, technical documentation, logging) and investigate the role of independent third-party audits and "safety labels" for AI systems.
 
-3. **Analyze liability frameworks** for harm caused by misaligned or compromised AI agents and evaluate the implications of cross-border coordination, drawing on cooperation insights on technical AI safety collaboration among geopolitical rivals
+3. Analyze liability frameworks for harm caused by misaligned or compromised AI agents and evaluate the implications of cross-border coordination, drawing on cooperation insights on technical AI safety collaboration among geopolitical rivals
 
-4. **Present the "AI Scientist" paradigm**, which advocates for non-agentic, uncertainty-aware models to avoid runaway autonomy and discuss design patterns (e.g., provable separation of planning and execution, human-in-the-loop gates) that enforce safe operating envelopes.
+4. Present the "AI Scientist" paradigm, which advocates for non-agentic, uncertainty-aware models to avoid runaway autonomy and discuss design patterns (e.g., provable separation of planning and execution, human-in-the-loop gates) that enforce safe operating envelopes.
 
 
 ## Important Dates

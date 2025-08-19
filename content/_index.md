@@ -14,7 +14,7 @@ At the same time, the International AI Safety Report 2025 synthesizes over 100 e
 
 The main goal of this workshop is to bridge the gap between state-of-the-art ML safety/security research and evolving regulatory frameworks. 
 
-Please check out our [Call for Papers](/cfp/).
+Please check out our [Call for Papers](/cfp/). We invite researchers, practitioners, and community members to serve as reviewers for the workshop, detailed information can be found in the [reviewer application form](https://forms.gle/TqUzzdHfyshpft5F8).
 
 **Important Dates:**
 - **Submission Deadline: Aug 22, 2025**

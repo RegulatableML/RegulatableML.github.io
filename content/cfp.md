@@ -19,7 +19,7 @@ We encourage paper submissions relevant to (but not limited to) the following to
 
 All deadlines are due 23:59 PM in GMT time zone.
 
-- Submission Deadline: Aug 22, 2025
+- Submission Deadline: Aug 29, 2025
 - Acceptance Notification: Sep 22, 2025
 
 ## Submission Instruction

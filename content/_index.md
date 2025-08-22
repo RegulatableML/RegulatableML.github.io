@@ -17,7 +17,7 @@ The main goal of this workshop is to bridge the gap between state-of-the-art ML 
 Please check out our [Call for Papers](/cfp/). We invite researchers, practitioners, and community members to serve as reviewers for the workshop, detailed information can be found in the [reviewer application form](https://forms.gle/TqUzzdHfyshpft5F8).
 
 **Important Dates:**
-- **Submission Deadline: Aug 22, 2025**
+- **Submission Deadline: Aug 29, 2025**
 - **Acceptance Notification: Sep 22, 2025**
 
 # Keynote Talks

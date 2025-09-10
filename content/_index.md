@@ -29,7 +29,7 @@ Please check out our [Call for Papers](/cfp/). We invite researchers, practition
 {{< panelists >}}
 
 # Schedule
-TBD
+Dec 07, 2025
 {{< schedule >}}
 
 # Past Editions

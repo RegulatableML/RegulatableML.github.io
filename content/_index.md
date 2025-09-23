@@ -19,6 +19,7 @@ Please check out our [Call for Papers](/cfp/). We invite researchers, practition
 **Important Dates:**
 - **Submission Deadline: Aug 29, 2025**
 - **Acceptance Notification: Sep 22, 2025**
+- **Camera Ready Deadline: Oct 23, 2025**
 
 # Keynote Talks
 

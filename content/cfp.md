@@ -21,6 +21,7 @@ All deadlines are due 23:59 PM in GMT time zone.
 
 - Submission Deadline: Aug 29, 2025
 - Acceptance Notification: Sep 22, 2025
+- Camera Ready Deadline: Oct 23, 2025
 
 ## Submission Instruction
 

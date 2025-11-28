@@ -19,26 +19,6 @@
   abstract: "Talk details will be announced soon."
 
 - index: 3
-  name: "Dan Hendrycks"
-  title: "TBD"
-  affiliation: "Center for AI Safety"
-  website: "#"
-  portrait: "images/2025-speakers/dan_hendrycks.JPG"
-  bio: "Speaker details will be announced soon."
-  talk_title: "TBD"
-  abstract: "Talk details will be announced soon."
-
-- index: 4
-  name: "Sara Hooker"
-  title: "TBD"
-  affiliation: "Cohere Labs"
-  website: "#"
-  portrait: "images/2025-speakers/sara.png"
-  bio: "Speaker details will be announced soon."
-  talk_title: "TBD"
-  abstract: "Talk details will be announced soon."
-
-- index: 5
   name: "Gary Howarth"
   title: "TBD"
   affiliation: "NIST"
@@ -48,22 +28,12 @@
   talk_title: "TBD"
   abstract: "Talk details will be announced soon."
 
-- index: 6
+- index: 4
   name: "Bo Li"
   title: "TBD"
   affiliation: "University of Illinois Urbana-Champaign"
   website: "#"
   portrait: "images/2025-speakers/bo_li_headshot.jpg"
-  bio: "Speaker details will be announced soon."
-  talk_title: "TBD"
-  abstract: "Talk details will be announced soon."
-
-- index: 7
-  name: "Lucilla Sioli"
-  title: "TBD"
-  affiliation: "EU AI Office"
-  website: "#"
-  portrait: "images/2025-speakers/Lucilla-Sioli.jpg"
   bio: "Speaker details will be announced soon."
   talk_title: "TBD"
   abstract: "Talk details will be announced soon."

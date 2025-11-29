@@ -1,4 +1,15 @@
-- name: "TBD"
-  affiliation: "TBD"
+- name: "Rich Caruana"
+  affiliation: "Intelligible"
+  website: "#"
+  portrait: "images/2025-speakers/Rich.jpg"
+
+- name: "Jiahao Chen"
+  affiliation: "NYC Govt"
   website: "#"
   portrait: "images/regml.png"
+
+- name: "Sara Hooker"
+  affiliation: "Cohere Labs"
+  website: "https://www.sarahooker.me/"
+  portrait: "images/2025-speakers/sara.png"
+

@@ -1,8 +1,8 @@
 - index: 1
   name: "Yoshua Bengio"
-  title: "TBD"
+  title: "Professor"
   affiliation: "Université de Montréal"
-  website: "#"
+  website: "https://yoshuabengio.org/"
   portrait: "images/2025-speakers/BENGIO_Yoshua.jpg"
   bio: "Yoshua Bengio is Full Professor in the Department of Computer Science and Operations Research at Université de Montreal, Co-President and Scientific Director of LawZero, as well as Founder and Scientific Advisor of Mila and Special Advisor and Founding Scientific Director of IVADO. Considered one of the world’s leaders in artificial intelligence and deep learning, he is the recipient of the 2018 A.M. Turing Award with Geoff Hinton and Yann LeCun, known as the Nobel prize of computing. \n He is a Canada CIFAR AI Chair, a Fellow of both the Royal Society of London and Canada, an Officer of the Order of Canada, Knight of the Legion of Honor of France, Member of the UN’s Scientific Advisory Board for Independent Advice on Breakthroughs in Science and Technology,  and Chair of the International Scientific Report on the Safety of Advanced AI."
   talk_title: "TBD"
@@ -10,9 +10,9 @@
 
 - index: 2
   name: "Yarin Gal"
-  title: "TBD"
+  title: "Professor"
   affiliation: "Oxford University"
-  website: "#"
+  website: "https://www.cs.ox.ac.uk/people/yarin.gal/website/"
   portrait: "images/2025-speakers/Yarin-Gal-headshot2.jpg"
   bio: "Yarin leads the Oxford Applied and Theoretical Machine Learning (OATML) group. He is a Professor of Machine Learning at the Computer Science department, University of Oxford. He is also the Tutorial Fellow in Computer Science at Christ Church, Oxford, a Turing AI Fellow at the Turing Institute, and Expert Advisor to AISI, the UK Government's AI Security Institute. He was formerly a Research Director for the Government's Frontier AI Taskforce where he founded the Safeguards team."
   talk_title: "TBD"
@@ -20,9 +20,9 @@
 
 - index: 3
   name: "Gary Howarth"
-  title: "TBD"
+  title: "Physical Scientist"
   affiliation: "NIST"
-  website: "#"
+  website: "https://www.nist.gov/people/gary-howarth"
   portrait: "images/2025-speakers/Gary Howarth Headshot2.jpg"
   bio: "Gary Howarth develops and leads ambitious research projects to address urgent challenges in communication technology. He leads the privacy-enhancing technology research portfolio for the Privacy Engineering Program and is a principal investigator for the mission-critical communications portfolio in the Public Safety Communications Research Division. He earned his PhD in the Chemistry Department at Columbia University. He has previously taught high school science and co-founded the NET Charter High School in New Orleans. "
   talk_title: "TBD"
@@ -32,7 +32,7 @@
   name: "Bo Li"
   title: "Associate Professor"
   affiliation: "University of Illinois Urbana-Champaign"
-  website: "#"
+  website: "https://aisecure.github.io/"
   portrait: "images/2025-speakers/bo_li_headshot.jpg"
   bio: "Dr. Bo Li is an Associate Professor in the Department of Computer Science at the University of Illinois at Urbana-Champaign. She is the recipient of the IJCAI Computers and Thought Award, Alfred P. Sloan Research Fellowship, IEEE AI’s 10 to Watch, NSF CAREER Award, MIT Technology Review TR-35 Award, Dean's Award for Excellence in Research, C.W. Gear Outstanding Faculty Award, Intel Rising Star Award, Symantec Research Labs Fellowship, Rising Star Award, Research Awards from Tech companies such as Amazon, Meta, Google, Intel, IBM, and eBay, JPMC, Oracle, and best paper awards at several top machine learning and security conferences. Her research focuses on both theoretical and practical aspects of trustworthy machine learning, which is at the intersection of machine learning, security, privacy, and game theory. Her work has been featured by several major publications and media outlets, including Nature, Wired, Fortune, and New York Times."
   talk_title: "Guarding the Age of Agents: Advancing Risk Assessment, Guardrails, and Security Certification"

@@ -25,8 +25,8 @@
   website: "https://www.nist.gov/people/gary-howarth"
   portrait: "images/2025-speakers/Gary Howarth Headshot2.jpg"
   bio: "Gary Howarth develops and leads ambitious research projects to address urgent challenges in communication technology. He leads the privacy-enhancing technology research portfolio for the Privacy Engineering Program and is a principal investigator for the mission-critical communications portfolio in the Public Safety Communications Research Division. He earned his PhD in the Chemistry Department at Columbia University. He has previously taught high school science and co-founded the NET Charter High School in New Orleans. "
-  talk_title: "TBD"
-  abstract: "Talk details will be announced soon."
+  talk_title: "Observations at the Intersection of Privacy and Machine Learning"
+  abstract: "Privacy presents a distinctive set of challenges in machine learning risk management. This talk will explore the intersection of privacy and ML risks, highlighting key barriers to effective risk management. Drawing from recent work at the NIST Privacy Enhancing Technologies (PETs Testbed), the talk will examine the challenges of identifying and mitigating privacy risks in ML systems. Through specific examples from recent red teaming exercises, I will illustrate the complexities of managing privacy risks in ML, including issues related to data minimization, model interpretability, and adversarial attacks.  The observations will inform a discussion on the need for a nuanced and multidisciplinary approach to approaching privacy-related ML risks."
 
 - index: 4
   name: "Bo Li"

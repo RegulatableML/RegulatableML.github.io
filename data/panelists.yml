@@ -1,12 +1,22 @@
+- name: Chirag Agarwal
+  affiliation: "University of Virginia"
+  website: https://chirag-agarwall.github.io/
+  portrait: /images/chirag.png
+
 - name: "Rich Caruana"
   affiliation: "Intelligible"
-  website: "#"
+  website: "https://www.linkedin.com/in/rich-caruana-a4235a91/"
   portrait: "images/2025-speakers/Rich.jpg"
 
 - name: "Jiahao Chen"
   affiliation: "NYC Govt"
-  website: "#"
+  website: "https://www.linkedin.com/in/jiahao"
   portrait: "images/2025-speakers/jiahao.jpg"
+
+- name: "Ian Eisenberg"
+  affiliation: "CredoAI"
+  website: "https://ianeisenberg.github.io/"
+  portrait: "images/2025-speakers/Eisenberg.jpg"
 
 - name: "Sara Hooker"
   affiliation: "Cohere Labs"

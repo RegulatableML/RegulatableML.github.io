@@ -12,6 +12,13 @@
   portrait: /images/jon.jpeg
   website: https://www.cs.cornell.edu/home/kleinber/
 
+- name: Hima Lakkaraju
+  affiliation1: Harvard University
+  affiliation2: 
+  affiliation3: 
+  portrait: /images/hima.jpeg
+  website: http://himalakkaraju.github.io
+
 - name: Margaret Mitchell
   affiliation1: Hugging Face
   affiliation2: 

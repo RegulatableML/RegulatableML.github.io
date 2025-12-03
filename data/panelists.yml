@@ -1,8 +1,3 @@
-- name: Chirag Agarwal
-  affiliation: "University of Virginia"
-  website: https://chirag-agarwall.github.io/
-  portrait: /images/chirag.png
-
 - name: "Rich Caruana"
   affiliation: "Intelligible"
   website: "https://www.linkedin.com/in/rich-caruana-a4235a91/"
@@ -23,3 +18,7 @@
   website: "https://www.sarahooker.me/"
   portrait: "images/2025-speakers/sara.png"
 
+- name: Chirag Agarwal
+  affiliation: "University of Virginia"
+  website: https://chirag-agarwall.github.io/
+  portrait: /images/chirag.png

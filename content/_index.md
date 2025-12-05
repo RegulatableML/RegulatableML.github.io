@@ -30,7 +30,7 @@ Please check out our [Call for Papers](/cfp/). We invite researchers, practition
 {{< panelists >}}
 
 # Schedule
-Dec 07, 2025
+Dec 07, 2025, Upper Level Room 1AB @ San Diego Convention Center
 {{< schedule >}}
 
 # Past Editions

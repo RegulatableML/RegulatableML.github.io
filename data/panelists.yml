@@ -1,3 +1,8 @@
+- name: Bo Li
+  affiliation: "University of Illinois Urbana-Champaign"
+  website: "https://aisecure.github.io/"
+  portrait: "images/2025-speakers/bo_li_headshot.jpg"
+
 - name: "Rich Caruana"
   affiliation: "Intelligible"
   website: "https://www.linkedin.com/in/rich-caruana-a4235a91/"
@@ -17,11 +22,6 @@
   affiliation: "Hugging Face"
   website: "https://evijit.io/"
   portrait: "images/2025-speakers/Avijit.jpg"
-
-- name: Bo Li
-  affiliation: "University of Illinois Urbana-Champaign"
-  website: "https://aisecure.github.io/"
-  portrait: "images/2025-speakers/bo_li_headshot.jpg"
 
 - name: Chirag Agarwal
   affiliation: "University of Virginia"
